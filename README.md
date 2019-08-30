@@ -2,7 +2,7 @@
 Collection of best of awesome repos on GitHub
 
 
-### [Individuals/Group Contributors](#individualsgroup-contributors-1)
+### [All awesome repos](#individualsgroup-contributors-1)
 |   	|   	|   	|   	|   	|   	|   	|   	|   	|
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [#](#-individuals) 	| [A](#a-individuals) 	| [B](#b-individuals) 	| [C](#c-individuals) 	| [D](#d-individuals) 	| [E](#e-individuals) 	| [F](#f-individuals) 	| [G](#g-individuals) 	| [H](#h-individuals) 	|
@@ -11,7 +11,4 @@ Collection of best of awesome repos on GitHub
 
 ### Names
 
-#### \# names
-
-
-# awesome-personalbranding
+#### awesome-personalbranding
