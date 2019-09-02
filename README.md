@@ -15,3 +15,7 @@ Collection of best of awesome repos on GitHub
 #### awesome-personalbranding
 
 * |  [awesome-portfolios](https://github.com/iRaul/awesome-portfolios) | A curated list of Awesome Creative Portfolios |
+
+#### awesome-leadership
+
+* |  [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) | Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone. |
