@@ -3,11 +3,11 @@ Collection of best of awesome repos on GitHub
 
 
 ### [All awesome repos](#all-awesome-repos)
-|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
-| [awesome-aws](#awesome-aws) | [awesome-azure](#awesome-azure) 	| [awesome-googlecloud](#awesome-googlecloud) 	| [C](#c-individuals) 	| [D](#d-individuals) 	| [E](#e-individuals) 	| [F](#f-individuals) 	| [G](#g-individuals) 	| [H](#h-individuals) 	|
-| [awesome-machinelearning](#awesome-machinelearning) 	| [awesome-codingpractices](#awesome-codingpractices) 	| [K](#k-individuals) 	| [L](#l-individuals) 	| [M](#m-individuals) 	| [N](#n-individuals) 	| [O](#o-individuals) 	| [P](#p-individuals) 	| [Q](#q-individuals) 	|
-| [awesome-personalbranding](#awesome-personalbranding) 	| [awesome-leadership](#awesome-leadership)	| [T](#t-individuals) 	| [U](#u-individuals) 	| [V](#v-individuals) 	| [W](#w-individuals) 	| [X](#x-individuals) 	| [Y](#y-individuals) 	| [Z](#z-individuals)  	|
+|   	|   	|   	|   	|
+|:-:  |:-:  |:-:  |:-:  |
+| [awesome-aws](#awesome-aws) | [awesome-azure](#awesome-azure) 	| [awesome-googlecloud](#awesome-googlecloud) 	| [C](#c-individuals)| 
+| [awesome-machinelearning](#awesome-machinelearning) 	| [awesome-codingpractices](#awesome-codingpractices) 	| [K](#k-individuals) 	| [L](#l-individuals) 	| 
+| [awesome-personalbranding](#awesome-personalbranding) 	| [awesome-leadership](#awesome-leadership)	| [T](#t-individuals) 	| [U](#u-individuals) 	| 
 
 
 ### all-awesome-repos
@@ -34,3 +34,4 @@ Collection of best of awesome repos on GitHub
 #### awesome-codingpractices
 
 * |  [awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps) | A curated list of awesome software development roadmaps |
+* |  [awesome-roadmaps](https://github.com/matiassingers/awesome-readme) | A curated list of awesome READMEs |
