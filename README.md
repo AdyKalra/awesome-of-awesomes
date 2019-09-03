@@ -32,3 +32,5 @@ Collection of best of awesome repos on GitHub
 #### awesome-googlecloud
 
 #### awesome-codingpractices
+
+* |  [awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps) | A curated list of awesome software development roadmaps |
