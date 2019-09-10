@@ -7,7 +7,7 @@ Collection of best of awesome repos on GitHub
 |:-:  |:-:  |:-:  |:-:  |
 | [awesome-aws](#awesome-aws) | [awesome-azure](#awesome-azure) 	| [awesome-googlecloud](#awesome-googlecloud) 	| [awesome-machinelearning](#awesome-machinelearning)| 
 | [awesome-web](#awesome-web) 	| [awesome-mobile](#awesome-mobile) 	| [awesome-backend](#awesome-backend) 	| [awesome-codingpractices](#awesome-codingpractices) 	| 
-| [awesome-personalbranding](#awesome-personalbranding) 	| [awesome-leadership](#awesome-leadership)	| [T](#t-individuals) 	| [U](#u-individuals) 	| 
+| [awesome-personalbranding](#awesome-personalbranding) 	| [awesome-leadership](#awesome-leadership)	| [awesome-techvision](#awesome-techvision) 	| [U](#u-individuals) 	| 
 
 
 ### all-awesome-repos
@@ -37,9 +37,13 @@ Collection of best of awesome repos on GitHub
 * |  [awesome-readme](https://github.com/matiassingers/awesome-readme) | A curated list of awesome READMEs |
 
 #### awesome-mobile
+* |  [awesome-flutter](https://github.com/AdyKalra/awesome-flutter) | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.|
 
 #### awesome-web
 
 #### awesome-backend
+
+#### awesome-techvision
+* |  [awesome-roadmaps](https://github.com/AdyKalra/awesome-roadmaps) | View roadmaps about developer roles to help you learn |
 
 
