@@ -5,8 +5,8 @@ Collection of best of awesome repos on GitHub
 ### [All awesome repos](#all-awesome-repos)
 |   	|   	|   	|   	|
 |:-:  |:-:  |:-:  |:-:  |
-| [awesome-aws](#awesome-aws) | [awesome-azure](#awesome-azure) 	| [awesome-googlecloud](#awesome-googlecloud) 	| [C](#c-individuals)| 
-| [awesome-machinelearning](#awesome-machinelearning) 	| [awesome-codingpractices](#awesome-codingpractices) 	| [K](#k-individuals) 	| [L](#l-individuals) 	| 
+| [awesome-aws](#awesome-aws) | [awesome-azure](#awesome-azure) 	| [awesome-googlecloud](#awesome-googlecloud) 	| [awesome-machinelearning](#awesome-machinelearning)| 
+| [awesome-web](#awesome-web) 	| [awesome-mobile](#awesome-mobile) 	| [awesome-backend](#awesome-backend) 	| [awesome-codingpractices](#awesome-codingpractices) 	| 
 | [awesome-personalbranding](#awesome-personalbranding) 	| [awesome-leadership](#awesome-leadership)	| [T](#t-individuals) 	| [U](#u-individuals) 	| 
 
 
@@ -34,4 +34,12 @@ Collection of best of awesome repos on GitHub
 #### awesome-codingpractices
 
 * |  [awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps) | A curated list of awesome software development roadmaps |
-* |  [awesome-roadmaps](https://github.com/matiassingers/awesome-readme) | A curated list of awesome READMEs |
+* |  [awesome-readme](https://github.com/matiassingers/awesome-readme) | A curated list of awesome READMEs |
+
+#### awesome-mobile
+
+#### awesome-web
+
+#### awesome-backend
+
+
