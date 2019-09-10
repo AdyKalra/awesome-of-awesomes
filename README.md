@@ -42,6 +42,7 @@ Collection of best of awesome repos on GitHub
 #### awesome-web
 
 #### awesome-backend
+* |  [awesome-python](https://github.com/AdyKalra/awesome-python) |A curated list of awesome Python frameworks, libraries, software and resources |
 
 #### awesome-techvision
 * |  [awesome-roadmaps](https://github.com/AdyKalra/awesome-roadmaps) | View roadmaps about developer roles to help you learn |
