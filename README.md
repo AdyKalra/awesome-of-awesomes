@@ -46,6 +46,8 @@ Collection of best of awesome repos on GitHub
 
 #### awesome-recruitment
 
+* | [awesome-senior-engineer-resources](https://github.com/allisonbrenner/awesome-senior-engineer-resources) | A curated list of things every senior engineer should know how to talk about in an interview.|
+
 #### awesome-backend
 * |  [awesome-python](https://github.com/AdyKalra/awesome-python) |A curated list of awesome Python frameworks, libraries, software and resources |
 
