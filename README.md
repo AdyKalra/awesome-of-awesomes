@@ -7,7 +7,7 @@ Collection of best of awesome repos on GitHub
 |:-:  |:-:  |:-:  |:-:  |
 | [awesome-aws](#awesome-aws) | [awesome-azure](#awesome-azure) 	| [awesome-googlecloud](#awesome-googlecloud) 	| [awesome-machinelearning](#awesome-machinelearning)| 
 | [awesome-web](#awesome-web) 	| [awesome-mobile](#awesome-mobile) 	| [awesome-backend](#awesome-backend) 	| [awesome-ops](#awesome-ops) 	| 
-| [awesome-recruitment](#awesome-recruitment) 	| [awesome-](#awesome-)	| [awesome-](#awesome-) 	| [awesome-](#awesome-) 	| 
+| [awesome-recruitment](#awesome-recruitment) 	| [awesome-](#awesome-)	| [awesome-architecture](#awesome-architecture) 	| [awesome-](#awesome-) 	| 
 | [awesome-personalbranding](#awesome-personalbranding) 	| [awesome-leadership](#awesome-leadership)	| [awesome-techvision](#awesome-techvision) 	| [awesome-codingpractices](#awesome-codingpractices) 	| 
 
 
@@ -54,4 +54,7 @@ Collection of best of awesome repos on GitHub
 #### awesome-techvision
 * |  [awesome-roadmaps](https://github.com/AdyKalra/awesome-roadmaps) | View roadmaps about developer roles to help you learn |
 
+#### awesome-architecture
+* |  [awesome-software-architect-roadmap](https://github.com/AlaaAttya/software-architect-roadmap) | View roadmaps about architect roles to help you learn |
+* |  [awesome-software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) | The software design and architecture roadmap for any developer https://solidbook.io |
 
