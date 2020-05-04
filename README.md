@@ -57,4 +57,5 @@ Collection of best of awesome repos on GitHub
 #### awesome-architecture
 * |  [awesome-software-architect-roadmap](https://github.com/AlaaAttya/software-architect-roadmap) | View roadmaps about architect roles to help you learn |
 * |  [awesome-software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) | The software design and architecture roadmap for any developer https://solidbook.io |
+* | [awesome-solution-architecture](https://github.com/unlight/solution-architecture) | Solution Architecture links, articles, books, video lessons, etc. |
 
