@@ -41,6 +41,7 @@ Collection of best of awesome repos on GitHub
 * |  [awesome-flutter](https://github.com/AdyKalra/awesome-flutter) | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.|
 
 #### awesome-web
+* |[frontend-tools](https://github.com/codylindley/frontend-tools)|Landscaping With Front-end Tools|
 
 #### awesome-ops
 
