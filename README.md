@@ -27,6 +27,7 @@ Collection of best of awesome repos on GitHub
 * |  [awesome-Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) | machine learning and deep learning tutorials, articles and other resources |
 
 #### awesome-aws
+* |[serverless cdk patterns](https://github.com/cdk-patterns/serverless)|This is intended to be a repo containing all of the official AWS Serverless architecture patterns built with CDK for developers to use. All patterns come in Typescript and Python with the exported CloudFormation also included.|
 
 #### awesome-azure
 
