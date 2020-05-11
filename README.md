@@ -7,7 +7,7 @@ Collection of best of awesome repos on GitHub
 |:-:  |:-:  |:-:  |:-:  |
 | [awesome-aws](#awesome-aws) | [awesome-azure](#awesome-azure) 	| [awesome-googlecloud](#awesome-googlecloud) 	| [awesome-machinelearning](#awesome-machinelearning)| 
 | [awesome-web](#awesome-web) 	| [awesome-mobile](#awesome-mobile) 	| [awesome-backend](#awesome-backend) 	| [awesome-ops](#awesome-ops) 	| 
-| [awesome-recruitment](#awesome-recruitment) 	| [awesome-](#awesome-)	| [awesome-architecture](#awesome-architecture) 	| [awesome-](#awesome-) 	| 
+| [awesome-recruitment](#awesome-recruitment) 	| [awesome-engineering](#awesome-engineering)	| [awesome-architecture](#awesome-architecture) 	| [awesome-](#awesome-) 	| 
 | [awesome-personalbranding](#awesome-personalbranding) 	| [awesome-leadership](#awesome-leadership)	| [awesome-techvision](#awesome-techvision) 	| [awesome-codingpractices](#awesome-codingpractices) 	| 
 
 
@@ -28,6 +28,9 @@ Collection of best of awesome repos on GitHub
 
 #### awesome-aws
 * |[serverless cdk patterns](https://github.com/cdk-patterns/serverless)|This is intended to be a repo containing all of the official AWS Serverless architecture patterns built with CDK for developers to use. All patterns come in Typescript and Python with the exported CloudFormation also included.|
+
+#### awesome-engineering
+* |[Google Engineering practices](https://github.com/google/eng-practices)|Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time.|
 
 #### awesome-azure
 
