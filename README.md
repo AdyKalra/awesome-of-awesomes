@@ -28,6 +28,7 @@ Collection of best of awesome repos on GitHub
 
 #### awesome-aws
 * |[serverless cdk patterns](https://github.com/cdk-patterns/serverless)|This is intended to be a repo containing all of the official AWS Serverless architecture patterns built with CDK for developers to use. All patterns come in Typescript and Python with the exported CloudFormation also included.|
+* |[cdk-components](https://github.com/cloudcomponents/cdk-components)|A collection of higher-level aws cdk components|
 
 #### awesome-engineering
 * |[Google Engineering practices](https://github.com/google/eng-practices)|Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time.|
