@@ -72,6 +72,7 @@ Collection of best of awesome repos on GitHub
 |  Name |  Summary | 
 |:-:    |:-:       |
 |[frontend-tools](https://github.com/codylindley/frontend-tools)|Landscaping With Front-end Tools|
+|[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)|Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more|
 
 #### awesome-ops
 |  Name |  Summary | 
