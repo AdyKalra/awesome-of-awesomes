@@ -14,64 +14,92 @@ Collection of best of awesome repos on GitHub
 ### all-awesome-repos
 
 #### awesome-personalbranding
-
-* |  [awesome-portfolios](https://github.com/iRaul/awesome-portfolios) | A curated list of Awesome Creative Portfolios |
+|  Name |  Summary | 
+|:-:    |:-:       |  
+|  [awesome-portfolios](https://github.com/iRaul/awesome-portfolios) | A curated list of Awesome Creative Portfolios |
 
 #### awesome-leadership
-
-* |  [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) | Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone. |
-* |  [5 Adaptive IT Principles](https://aws.amazon.com/blogs/apn/5-adaptive-it-principles-to-get-digital-transformation-right/) | Reiterating Four key metrics and digital transformation framework. |
+|  Name |  Summary | 
+|:-:    |:-:       |
+|  [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) | Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone. |
+|  [5 Adaptive IT Principles](https://aws.amazon.com/blogs/apn/5-adaptive-it-principles-to-get-digital-transformation-right/) | Reiterating Four key metrics and digital transformation framework. |
  
 
 #### awesome-machinelearning
-
-* |  [awesome-machinelearning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome Machine Learning frameworks, libraries and software. |
-* |  [awesome-Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) | machine learning and deep learning tutorials, articles and other resources |
+|  Name |  Summary | 
+|:-:    |:-:       |
+|  [awesome-machinelearning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome Machine Learning frameworks, libraries and software. |
+|  [awesome-Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) | machine learning and deep learning tutorials, articles and other resources |
 
 #### awesome-aws
-* |[aws-samples](https://github.com/aws-samples)| Boilerplate aws repositories including patterns |
-* |[serverless cdk patterns](https://github.com/cdk-patterns/serverless)|This is intended to be a repo containing all of the official AWS Serverless architecture patterns built with CDK for developers to use. All patterns come in Typescript and Python with the exported CloudFormation also included.|
-* |[cdk-components](https://github.com/cloudcomponents/cdk-components)|A collection of higher-level aws cdk components|
-* |[awesome-cloudformation](https://github.com/aws-cloudformation/awesome-cloudformation)|A curated list of resources and projects for working with AWS CloudFormation. https://aws.amazon.com/cloudformation/|
+|  Name |  Summary | 
+|:-:    |:-:       |
+|[aws-samples](https://github.com/aws-samples)| Boilerplate aws repositories including patterns |
+|[serverless cdk patterns](https://github.com/cdk-patterns/serverless)|This is intended to be a repo containing all of the official AWS Serverless architecture patterns built with CDK for developers to use. All patterns come in Typescript and Python with the exported CloudFormation also included.|
+|[cdk-components](https://github.com/cloudcomponents/cdk-components)|A collection of higher-level aws cdk components|
+|[awesome-cloudformation](https://github.com/aws-cloudformation/awesome-cloudformation)|A curated list of resources and projects for working with AWS CloudFormation. https://aws.amazon.com/cloudformation/|
 
 #### awesome-engineering
-* |[Google Engineering practices](https://github.com/google/eng-practices)|Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time.|
-* |[Technology Trends](https://github.com/AdyKalra/technolgytrends)|Everything tech - idiosyncratic opinion of a bunch of feeds , radars and technologists across the globe.
-* |[awesome-engineering blogs](https://github.com/upgundecha/awesome-engineering)|A curated list of awesome engineering blogs, handbooks and open source repos from top technology companies|
+|  Name |  Summary | 
+|:-:    |:-:       |
+|[Google Engineering practices](https://github.com/google/eng-practices)|Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time.|
+|[Technology Trends](https://github.com/AdyKalra/technolgytrends)|Everything tech - idiosyncratic opinion of a bunch of feeds , radars and technologists across the globe.
+|[awesome-engineering blogs](https://github.com/upgundecha/awesome-engineering)|A curated list of awesome engineering blogs, handbooks and open source repos from top technology companies|
 |
-* |[Awesome stacks](https://awesomestacks.dev/?ref=stackshare)| https://github.com/stackshareio/awesome-stacks A curated list of tech stacks for building different applications & features|
+|[Awesome stacks](https://awesomestacks.dev/?ref=stackshare)| https://github.com/stackshareio/awesome-stacks A curated list of tech stacks for building different applications & features|
 
 #### awesome-azure
+|  Name |  Summary | 
+|:-:    |:-:       |
+| | |
 
 #### awesome-googlecloud
+|  Name |  Summary | 
+|:-:    |:-:       |
+| | |
 
 #### awesome-codingpractices
-
-* |  [awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps) | A curated list of awesome software development roadmaps |
-* |  [awesome-readme](https://github.com/matiassingers/awesome-readme) | A curated list of awesome READMEs |
+|  Name |  Summary | 
+|:-:    |:-:       |
+|  [awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps) | A curated list of awesome software development roadmaps |
+|  [awesome-readme](https://github.com/matiassingers/awesome-readme) | A curated list of awesome READMEs |
 
 #### awesome-mobile
-* |  [awesome-flutter](https://github.com/AdyKalra/awesome-flutter) | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.|
+|  Name |  Summary | 
+|:-:    |:-:       |
+|  [awesome-flutter](https://github.com/AdyKalra/awesome-flutter) | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.|
 
 #### awesome-web
-* |[frontend-tools](https://github.com/codylindley/frontend-tools)|Landscaping With Front-end Tools|
+|  Name |  Summary | 
+|:-:    |:-:       |
+|[frontend-tools](https://github.com/codylindley/frontend-tools)|Landscaping With Front-end Tools|
 
 #### awesome-ops
+|  Name |  Summary | 
+|:-:    |:-:       |
+| | |
 
 #### awesome-recruitment
-
-* | [awesome-senior-engineer-resources](https://github.com/allisonbrenner/awesome-senior-engineer-resources) | A curated list of things every senior engineer should know how to talk about in an interview.|
-* |[tech interview formats](https://yangshun.github.io/tech-interview-handbook/interview-formats)|across different organisations|
+|  Name |  Summary | 
+|:-:    |:-:       |
+| [awesome-senior-engineer-resources](https://github.com/allisonbrenner/awesome-senior-engineer-resources) | A curated list of things every senior engineer should know how to talk about in an interview.|
+|[tech interview formats](https://yangshun.github.io/tech-interview-handbook/interview-formats)|across different organisations|
 
 #### awesome-backend
-* |  [awesome-python](https://github.com/AdyKalra/awesome-python) |A curated list of awesome Python frameworks, libraries, software and resources |
+|  Name |  Summary | 
+|:-:    |:-:       |
+|  [awesome-python](https://github.com/AdyKalra/awesome-python) |A curated list of awesome Python frameworks, libraries, software and resources |
 
 #### awesome-techvision
-* |  [awesome-roadmaps](https://github.com/AdyKalra/awesome-roadmaps) | View roadmaps about developer roles to help you learn |
+|  Name |  Summary | 
+|:-:    |:-:       |
+|  [awesome-roadmaps](https://github.com/AdyKalra/awesome-roadmaps) | View roadmaps about developer roles to help you learn |
 
 #### awesome-architecture
-* |  [awesome-software-architect-roadmap](https://github.com/AlaaAttya/software-architect-roadmap) | View roadmaps about architect roles to help you learn |
-* |  [awesome-software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) | The software design and architecture roadmap for any developer https://solidbook.io |
-* | [awesome-solution-architecture](https://github.com/unlight/solution-architecture) | Solution Architecture links, articles, books, video lessons, etc. |
-* |[solutions-architecture-patterns](https://github.com/chanakaudaya/solutions-architecture-patterns) | solutions architecture patterns which can be reused to build enterprise software systems |
+|  Name |  Summary | 
+|:-:    |:-:       |
+|  [awesome-software-architect-roadmap](https://github.com/AlaaAttya/software-architect-roadmap) | View roadmaps about architect roles to help you learn |
+|  [awesome-software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) | The software design and architecture roadmap for any developer https://solidbook.io |
+| [awesome-solution-architecture](https://github.com/unlight/solution-architecture) | Solution Architecture links, articles, books, video lessons, etc. |
+|[solutions-architecture-patterns](https://github.com/chanakaudaya/solutions-architecture-patterns) | solutions architecture patterns which can be reused to build enterprise software systems |
 
