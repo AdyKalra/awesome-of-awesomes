@@ -7,7 +7,7 @@ Collection of best of awesome repos on GitHub
 |:-:  |:-:  |:-:  |:-:  |
 | [awesome-aws](#awesome-aws) | [awesome-azure](#awesome-azure) 	| [awesome-googlecloud](#awesome-googlecloud) 	| [awesome-machinelearning](#awesome-machinelearning)| 
 | [awesome-web](#awesome-web) 	| [awesome-mobile](#awesome-mobile) 	| [awesome-backend](#awesome-backend) 	| [awesome-ops](#awesome-ops) 	| 
-| [awesome-recruitment](#awesome-recruitment) 	| [awesome-engineering](#awesome-engineering)	| [awesome-architecture](#awesome-architecture) 	| [awesome-](#awesome-) 	| 
+| [awesome-recruitment](#awesome-recruitment) 	| [awesome-engineering](#awesome-engineering)	| [awesome-architecture](#awesome-architecture) 	| [awesome-bestpractices](#awesome-bestpractices) 	| 
 | [awesome-personalbranding](#awesome-personalbranding) 	| [awesome-leadership](#awesome-leadership)	| [awesome-techvision](#awesome-techvision) 	| [awesome-codingpractices](#awesome-codingpractices) 	| 
 
 
