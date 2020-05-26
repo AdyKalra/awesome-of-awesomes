@@ -62,6 +62,9 @@ Collection of best of awesome repos on GitHub
 |:-:    |:-:       |
 |  [awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps) | A curated list of awesome software development roadmaps |
 |  [awesome-readme](https://github.com/matiassingers/awesome-readme) | A curated list of awesome READMEs |
+|[build-your-own-x](https://github.com/danistefanovic/build-your-own-x)|Build your own (insert technology here)|
+|[nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)|The Node.js best practices list (May 2020)|
+
 
 #### awesome-mobile
 |  Name |  Summary | 
@@ -85,6 +88,7 @@ Collection of best of awesome repos on GitHub
 |:-:    |:-:       |
 | [awesome-senior-engineer-resources](https://github.com/allisonbrenner/awesome-senior-engineer-resources) | A curated list of things every senior engineer should know how to talk about in an interview.|
 |[tech interview formats](https://yangshun.github.io/tech-interview-handbook/interview-formats)|across different organisations|
+|[reverse-interview](https://github.com/viraptor/reverse-interview)|Questions to ask the company during your interview|
 
 #### awesome-backend
 |  Name |  Summary | 
