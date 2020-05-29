@@ -64,6 +64,10 @@ Collection of best of awesome repos on GitHub
 |  [awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps) | A curated list of awesome software development roadmaps |
 |  [awesome-readme](https://github.com/matiassingers/awesome-readme) | A curated list of awesome READMEs |
 |[build-your-own-x](https://github.com/danistefanovic/build-your-own-x)|Build your own (insert technology here)|
+
+#### awesome-bestpractices
+|  Name |  Summary | 
+|:-:    |:-:       | 
 |[nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)|The Node.js best practices list (May 2020)|
 
 
