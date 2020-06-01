@@ -71,6 +71,7 @@ Collection of best of awesome repos on GitHub
 |[nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)|The Node.js best practices list (May 2020)|
 |[scaling serverless bestpractices](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Scaling%20Serverless%20Applications.md)|Best practices for organizing larger serverless applications|
 |[scaling microservices betspractices](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Scaling%20Microservices.md)|Scaling Microservices|
+|[Infra as Code](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/Infrastructure%20as%20Code.md)|IAC best practices|
 
 
 #### awesome-mobile
