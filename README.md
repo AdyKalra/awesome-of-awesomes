@@ -73,6 +73,7 @@ Collection of best of awesome repos on GitHub
 |[scaling microservices betspractices](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Scaling%20Microservices.md)|Scaling Microservices|
 |[Infra as Code](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/Infrastructure%20as%20Code.md)|IAC best practices|
 |[Lambda Best Practices](https://github.com/AdyKalra/technolgytrends/blob/master/Development%20trends/AWS%20Lambda.md)|Lambda|
+|[Orchestrating CI CD Pipelines](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Orchestrating%20CI%20CD%20Pipelines.md)|best practices for CI CD|
 
 
 #### awesome-mobile
