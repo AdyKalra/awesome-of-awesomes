@@ -18,7 +18,7 @@ Collection of best of awesome repos on GitHub
 |:-:    |:-:       |  
 |  [awesome-portfolios](https://github.com/iRaul/awesome-portfolios) | A curated list of Awesome Creative Portfolios |
 
-[Back to top :arrow_up:](###all-awesome-repos)
+[Back to top :arrow_up:](#all-awesome-repos)
 
 #### awesome-leadership
 |  Name |  Summary | 
@@ -26,12 +26,15 @@ Collection of best of awesome repos on GitHub
 |  [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) | Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone. |
 |  [5 Adaptive IT Principles](https://aws.amazon.com/blogs/apn/5-adaptive-it-principles-to-get-digital-transformation-right/) | Reiterating Four key metrics and digital transformation framework. |
  
+[Back to top :arrow_up:](#all-awesome-repos)
 
 #### awesome-machinelearning
 |  Name |  Summary | 
 |:-:    |:-:       |
 |  [awesome-machinelearning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome Machine Learning frameworks, libraries and software. |
 |  [awesome-Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) | machine learning and deep learning tutorials, articles and other resources |
+
+[Back to top :arrow_up:](#all-awesome-repos)
 
 #### awesome-aws
 |  Name |  Summary | 
@@ -42,6 +45,8 @@ Collection of best of awesome repos on GitHub
 |[awesome-cloudformation](https://github.com/aws-cloudformation/awesome-cloudformation)|A curated list of resources and projects for working with AWS CloudFormation. https://aws.amazon.com/cloudformation/|
 |[cdk8s](https://github.com/awslabs/cdk8s)|Define Kubernetes native apps and abstractions using object-oriented programming https://cdk8s.io|
 
+[Back to top :arrow_up:](#all-awesome-repos)
+
 #### awesome-engineering
 |  Name |  Summary | 
 |:-:    |:-:       |
@@ -50,15 +55,21 @@ Collection of best of awesome repos on GitHub
 |[awesome-engineering blogs](https://github.com/upgundecha/awesome-engineering)|A curated list of awesome engineering blogs, handbooks and open source repos from top technology companies|
 |[Awesome stacks](https://awesomestacks.dev/?ref=stackshare)| https://github.com/stackshareio/awesome-stacks A curated list of tech stacks for building different applications & features|
 
+[Back to top :arrow_up:](#all-awesome-repos)
+
 #### awesome-azure
 |  Name |  Summary | 
 |:-:    |:-:       |
 | | |
 
+[Back to top :arrow_up:](#all-awesome-repos)
+
 #### awesome-googlecloud
 |  Name |  Summary | 
 |:-:    |:-:       |
 | | |
+
+[Back to top :arrow_up:](#all-awesome-repos)
 
 #### awesome-codingpractices
 |  Name |  Summary | 
@@ -66,6 +77,8 @@ Collection of best of awesome repos on GitHub
 |  [awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps) | A curated list of awesome software development roadmaps |
 |  [awesome-readme](https://github.com/matiassingers/awesome-readme) | A curated list of awesome READMEs |
 |[build-your-own-x](https://github.com/danistefanovic/build-your-own-x)|Build your own (insert technology here)|
+
+[Back to top :arrow_up:](#all-awesome-repos)
 
 #### awesome-bestpractices
 |  Name |  Summary | 
@@ -77,12 +90,15 @@ Collection of best of awesome repos on GitHub
 |[Lambda Best Practices](https://github.com/AdyKalra/technolgytrends/blob/master/Development%20trends/AWS%20Lambda.md)|Lambda|
 |[Orchestrating CI CD Pipelines](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Orchestrating%20CI%20CD%20Pipelines.md)|best practices for CI CD|
 
+[Back to top :arrow_up:](#all-awesome-repos)
 
 #### awesome-mobile
 |  Name |  Summary | 
 |:-:    |:-:       |
 |  [awesome-flutter](https://github.com/AdyKalra/awesome-flutter) | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.|
 |[Bolierplatedemos-fullstack](https://github.com/gothinkster/realworld)|"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 https://realworld.io/|
+
+[Back to top :arrow_up:](#all-awesome-repos)
 
 #### awesome-web
 |  Name |  Summary | 
@@ -92,10 +108,14 @@ Collection of best of awesome repos on GitHub
 |[Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)|The perfect Front-End Checklist for modern websites and meticulous developers https://frontendchecklist.io|
 |[Bolierplatedemos-fullstack](https://github.com/gothinkster/realworld)|"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 https://realworld.io/|
 
+[Back to top :arrow_up:](#all-awesome-repos)
+
 #### awesome-ops
 |  Name |  Summary | 
 |:-:    |:-:       |
 | | |
+
+[Back to top :arrow_up:](#all-awesome-repos)
 
 #### awesome-recruitment
 |  Name |  Summary | 
@@ -104,18 +124,22 @@ Collection of best of awesome repos on GitHub
 |[tech interview formats](https://yangshun.github.io/tech-interview-handbook/interview-formats)|across different organisations|
 |[reverse-interview](https://github.com/viraptor/reverse-interview)|Questions to ask the company during your interview|
 
+[Back to top :arrow_up:](#all-awesome-repos)
+
 #### awesome-backend
 |  Name |  Summary | 
 |:-:    |:-:       |
 |[Bolierplatedemos-fullstack](https://github.com/gothinkster/realworld)|"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 https://realworld.io/|
 |  [awesome-python](https://github.com/AdyKalra/awesome-python) |A curated list of awesome Python frameworks, libraries, software and resources |
 
+[Back to top :arrow_up:](#all-awesome-repos)
+
 #### awesome-techvision
 |  Name |  Summary | 
 |:-:    |:-:       |
 |  [awesome-roadmaps](https://github.com/AdyKalra/awesome-roadmaps) | View roadmaps about developer roles to help you learn |
 
-[Back to top :arrow_up:](###all-awesome-repos)
+[Back to top :arrow_up:](#all-awesome-repos)
 
 #### awesome-architecture
 |  Name |  Summary | 
@@ -125,4 +149,4 @@ Collection of best of awesome repos on GitHub
 | [awesome-solution-architecture](https://github.com/unlight/solution-architecture) | Solution Architecture links, articles, books, video lessons, etc. |
 |[solutions-architecture-patterns](https://github.com/chanakaudaya/solutions-architecture-patterns) | solutions architecture patterns which can be reused to build enterprise software systems |
 
-[Back to top :arrow_up:](### all-awesome-repos)
+[Back to top :arrow_up:](#all-awesome-repos)
