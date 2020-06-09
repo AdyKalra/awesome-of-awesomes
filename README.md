@@ -125,4 +125,4 @@ Collection of best of awesome repos on GitHub
 | [awesome-solution-architecture](https://github.com/unlight/solution-architecture) | Solution Architecture links, articles, books, video lessons, etc. |
 |[solutions-architecture-patterns](https://github.com/chanakaudaya/solutions-architecture-patterns) | solutions architecture patterns which can be reused to build enterprise software systems |
 
-[Back to top :arrow_up:](###all-awesome-repos)
+[Back to top :arrow_up:](### all-awesome-repos)
