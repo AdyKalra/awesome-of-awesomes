@@ -33,6 +33,7 @@ Collection of best of awesome repos on GitHub
 |:-:    |:-:       |
 |  [awesome-machinelearning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome Machine Learning frameworks, libraries and software. |
 |  [awesome-Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) | machine learning and deep learning tutorials, articles and other resources |
+|[awesome-quant](https://github.com/wilsonfreitas/awesome-quant)|A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
