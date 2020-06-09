@@ -45,6 +45,7 @@ Collection of best of awesome repos on GitHub
 |[cdk-components](https://github.com/cloudcomponents/cdk-components)|A collection of higher-level aws cdk components|
 |[awesome-cloudformation](https://github.com/aws-cloudformation/awesome-cloudformation)|A curated list of resources and projects for working with AWS CloudFormation. https://aws.amazon.com/cloudformation/|
 |[cdk8s](https://github.com/awslabs/cdk8s)|Define Kubernetes native apps and abstractions using object-oriented programming https://cdk8s.io|
+|[awesome-awsdiagrams](https://www.awsgeek.com/)|awesome aws diagrams and notes|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
