@@ -25,6 +25,7 @@ Collection of best of awesome repos on GitHub
 |:-:    |:-:       |
 |  [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) | Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone. |
 |  [5 Adaptive IT Principles](https://aws.amazon.com/blogs/apn/5-adaptive-it-principles-to-get-digital-transformation-right/) | Reiterating Four key metrics and digital transformation framework. |
+|[Managers Playbook](https://github.com/ksindi/managers-playbook)|Heuristics for effective management.|
  
 [Back to top :arrow_up:](#all-awesome-repos)
 
