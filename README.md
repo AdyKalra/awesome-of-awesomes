@@ -49,6 +49,7 @@ Collection of best of awesome repos on GitHub
 |[cdk8s](https://github.com/awslabs/cdk8s)|Define Kubernetes native apps and abstractions using object-oriented programming https://cdk8s.io|
 |[awesome-awssketchnotes](https://www.awsgeek.com/)|awesome aws diagrams and notes|
 |[AWS Cloud Design Patterns](http://en.clouddesignpattern.org/index.php/Main_Page)| collection of solutions and design ideas for using AWS cloud technology to solve common systems design problems|
+|[this-is-my-architecture](https://aws.amazon.com/this-is-my-architecture/?sc_channel=EL&sc_campaign=Explainer_2017_vid&sc_medium=YouTube&sc_content=video942&sc_detail=EXPLAINER&sc_country=US&tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc)|Innovative cloud architectures from AWS partners and customers|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
@@ -157,5 +158,6 @@ Collection of best of awesome repos on GitHub
 |[system-design-primer](https://github.com/donnemartin/system-design-primer)|Learn how to design large-scale systems.|
 |[awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)|The Patterns of Scalable, Reliable, and Performant Large-Scale Systems http://awesome-scalability.com/|
 |[awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)|A curated list of software and architecture related design patterns.|
+|[this-is-my-architecture](https://aws.amazon.com/this-is-my-architecture/?sc_channel=EL&sc_campaign=Explainer_2017_vid&sc_medium=YouTube&sc_content=video942&sc_detail=EXPLAINER&sc_country=US&tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc)|Innovative cloud architectures from AWS partners and customers|
 
 [Back to top :arrow_up:](#all-awesome-repos)
