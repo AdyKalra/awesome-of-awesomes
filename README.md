@@ -48,6 +48,7 @@ Collection of best of awesome repos on GitHub
 |[awesome-cloudformation](https://github.com/aws-cloudformation/awesome-cloudformation)|A curated list of resources and projects for working with AWS CloudFormation. https://aws.amazon.com/cloudformation/|
 |[cdk8s](https://github.com/awslabs/cdk8s)|Define Kubernetes native apps and abstractions using object-oriented programming https://cdk8s.io|
 |[awesome-awssketchnotes](https://www.awsgeek.com/)|awesome aws diagrams and notes|
+|[AWS Cloud Design Patterns](http://en.clouddesignpattern.org/index.php/Main_Page)| collection of solutions and design ideas for using AWS cloud technology to solve common systems design problems|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
