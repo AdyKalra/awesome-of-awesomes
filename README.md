@@ -155,5 +155,6 @@ Collection of best of awesome repos on GitHub
 |[data-oriented-design](https://github.com/dbartolini/data-oriented-design)|A curated list of data oriented design resources.|
 |[system-design-primer](https://github.com/donnemartin/system-design-primer)|Learn how to design large-scale systems.|
 |[awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)|The Patterns of Scalable, Reliable, and Performant Large-Scale Systems http://awesome-scalability.com/|
+|[awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)|A curated list of software and architecture related design patterns.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
