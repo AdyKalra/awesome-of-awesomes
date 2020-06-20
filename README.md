@@ -154,5 +154,6 @@ Collection of best of awesome repos on GitHub
 |[solutions-architecture-patterns](https://github.com/chanakaudaya/solutions-architecture-patterns) | solutions architecture patterns which can be reused to build enterprise software systems |
 |[data-oriented-design](https://github.com/dbartolini/data-oriented-design)|A curated list of data oriented design resources.|
 |[system-design-primer](https://github.com/donnemartin/system-design-primer)|Learn how to design large-scale systems.|
+|[awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)|The Patterns of Scalable, Reliable, and Performant Large-Scale Systems http://awesome-scalability.com/|
 
 [Back to top :arrow_up:](#all-awesome-repos)
