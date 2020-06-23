@@ -60,6 +60,7 @@ Collection of best of awesome repos on GitHub
 |[Technology Trends](https://github.com/AdyKalra/technolgytrends)|Everything tech - idiosyncratic opinion of a bunch of feeds , radars and technologists across the globe.
 |[awesome-engineering blogs](https://github.com/upgundecha/awesome-engineering)|A curated list of awesome engineering blogs, handbooks and open source repos from top technology companies|
 |[Awesome stacks](https://awesomestacks.dev/?ref=stackshare)| https://github.com/stackshareio/awesome-stacks A curated list of tech stacks for building different applications & features|
+|[20 patterns to watch for in your engineering team]|(https://www.pluralsight.com/product/flow/20-patterns)|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
