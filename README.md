@@ -130,6 +130,7 @@ Collection of best of awesome repos on GitHub
 | [awesome-senior-engineer-resources](https://github.com/allisonbrenner/awesome-senior-engineer-resources) | A curated list of things every senior engineer should know how to talk about in an interview.|
 |[tech interview formats](https://yangshun.github.io/tech-interview-handbook/interview-formats)|across different organisations|
 |[reverse-interview](https://github.com/viraptor/reverse-interview)|Questions to ask the company during your interview|
+|[awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)|Technical interview questions|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
