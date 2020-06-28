@@ -85,6 +85,7 @@ Collection of best of awesome repos on GitHub
 |  [awesome-readme](https://github.com/matiassingers/awesome-readme) | A curated list of awesome READMEs |
 |[build-your-own-x](https://github.com/danistefanovic/build-your-own-x)|Build your own (insert technology here)|
 |[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)|Self-hosting is the practice of locally hosting and managing applications instead of renting from SaaSS providers. This is a list of Free Software network services and web applications which can be hosted locally.|
+|[backend-coding-practices](https://medium.com/the-internal-startup/a-guide-on-good-backend-coding-practices-e43f80422559)|a-guide-on-good-backend-coding-practices|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
