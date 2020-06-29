@@ -63,6 +63,9 @@ Collection of best of awesome repos on GitHub
 |[20 patterns to watch for in your engineering team](https://www.pluralsight.com/product/flow/20-patterns)|A field guide to help you recognize achievement, spot bottlenecks, and debug your development process with data|
 |[auxiliary-engineering](https://tech.wayfair.com/2020/06/what-is-auxiliary-engineering/)|Supporting teams - chammpios / aux engineers|
 |[Tech stack](https://stackshare.io/categories)|Stack comparison|
+|[code-review-best-practices](https://www.pluralsight.com/blog/platform/code-review-best-practices)|code-review-best-practices|
+|[code-review](https://www.pluralsight.com/blog/tutorials/code-review)|ENGINEERING MANAGER'S GUIDE TO THE CODE REVIEW PROCESS|
+
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
@@ -88,6 +91,7 @@ Collection of best of awesome repos on GitHub
 |[build-your-own-x](https://github.com/danistefanovic/build-your-own-x)|Build your own (insert technology here)|
 |[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)|Self-hosting is the practice of locally hosting and managing applications instead of renting from SaaSS providers. This is a list of Free Software network services and web applications which can be hosted locally.|
 |[backend-coding-practices](https://medium.com/the-internal-startup/a-guide-on-good-backend-coding-practices-e43f80422559)|a-guide-on-good-backend-coding-practices|
+|[code-review-best-practices](https://www.pluralsight.com/blog/platform/code-review-best-practices)|code-review-best-practices|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
