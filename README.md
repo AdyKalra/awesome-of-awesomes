@@ -92,6 +92,7 @@ Collection of best of awesome repos on GitHub
 |[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)|Self-hosting is the practice of locally hosting and managing applications instead of renting from SaaSS providers. This is a list of Free Software network services and web applications which can be hosted locally.|
 |[backend-coding-practices](https://medium.com/the-internal-startup/a-guide-on-good-backend-coding-practices-e43f80422559)|a-guide-on-good-backend-coding-practices|
 |[code-review-best-practices](https://www.pluralsight.com/blog/platform/code-review-best-practices)|code-review-best-practices|
+|[awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources)| Awesome list of resources on Development.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
@@ -107,6 +108,7 @@ Collection of best of awesome repos on GitHub
 |[devsecops-nine-tips-shift-left](https://about.gitlab.com/blog/2020/06/23/efficient-devsecops-nine-tips-shift-left/)|dev secops practices|
 |[auxiliary-engineering](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Auxillary%20Engineering.md)|Supporting teams - chammpios / aux engineers|
 |[12-attributes-for-mainframe-workloads](https://aws.amazon.com/blogs/apn/accelerating-agility-with-12-attributes-for-mainframe-workloads/)|12 attributes that can be used for showcase|
+|[awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources)| Awesome list of resources on Development.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
