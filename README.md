@@ -98,6 +98,7 @@ Collection of best of awesome repos on GitHub
 |[Infra as Code](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/Infrastructure%20as%20Code.md)|IAC best practices|
 |[Lambda Best Practices](https://github.com/AdyKalra/technolgytrends/blob/master/Development%20trends/AWS%20Lambda.md)|Lambda|
 |[Orchestrating CI CD Pipelines](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Orchestrating%20CI%20CD%20Pipelines.md)|best practices for CI CD|
+|[devsecops-nine-tips-shift-left](https://about.gitlab.com/blog/2020/06/23/efficient-devsecops-nine-tips-shift-left/)|dev secops practices|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
