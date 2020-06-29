@@ -61,6 +61,7 @@ Collection of best of awesome repos on GitHub
 |[awesome-engineering blogs](https://github.com/upgundecha/awesome-engineering)|A curated list of awesome engineering blogs, handbooks and open source repos from top technology companies|
 |[Awesome stacks](https://awesomestacks.dev/?ref=stackshare)| https://github.com/stackshareio/awesome-stacks A curated list of tech stacks for building different applications & features|
 |[20 patterns to watch for in your engineering team](https://www.pluralsight.com/product/flow/20-patterns)|A field guide to help you recognize achievement, spot bottlenecks, and debug your development process with data|
+|[auxiliary-engineering](https://tech.wayfair.com/2020/06/what-is-auxiliary-engineering/)|Supporting teams - chammpios / aux engineers|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
@@ -99,6 +100,7 @@ Collection of best of awesome repos on GitHub
 |[Lambda Best Practices](https://github.com/AdyKalra/technolgytrends/blob/master/Development%20trends/AWS%20Lambda.md)|Lambda|
 |[Orchestrating CI CD Pipelines](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Orchestrating%20CI%20CD%20Pipelines.md)|best practices for CI CD|
 |[devsecops-nine-tips-shift-left](https://about.gitlab.com/blog/2020/06/23/efficient-devsecops-nine-tips-shift-left/)|dev secops practices|
+|[auxiliary-engineering](https://tech.wayfair.com/2020/06/what-is-auxiliary-engineering/)|Supporting teams - chammpios / aux engineers|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
