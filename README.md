@@ -96,6 +96,7 @@ Collection of best of awesome repos on GitHub
 |[backend-coding-practices](https://medium.com/the-internal-startup/a-guide-on-good-backend-coding-practices-e43f80422559)|a-guide-on-good-backend-coding-practices|
 |[code-review-best-practices](https://www.pluralsight.com/blog/platform/code-review-best-practices)|code-review-best-practices|
 |[awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources)| Awesome list of resources on Development.|
+|[free-programming-books](https://github.com/EbookFoundation/free-programming-books)|Freely available programming books|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
