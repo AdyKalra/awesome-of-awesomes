@@ -97,6 +97,7 @@ Collection of best of awesome repos on GitHub
 |[code-review-best-practices](https://www.pluralsight.com/blog/platform/code-review-best-practices)|code-review-best-practices|
 |[awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources)| Awesome list of resources on Development.|
 |[free-programming-books](https://github.com/EbookFoundation/free-programming-books)|Freely available programming books|
+|[project-guidelines](https://github.com/elsewhencode/project-guidelines)|list of guidelines we've found, written and gathered that (we think) works really well with most JavaScript projects|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
@@ -114,6 +115,7 @@ Collection of best of awesome repos on GitHub
 |[12-attributes-for-mainframe-workloads](https://aws.amazon.com/blogs/apn/accelerating-agility-with-12-attributes-for-mainframe-workloads/)|12 attributes that can be used for showcase|
 |[awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources)| Awesome list of resources on Development.|
 |[Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)|Some useful websites for programmers.|
+|[project-guidelines](https://github.com/elsewhencode/project-guidelines)|list of guidelines we've found, written and gathered that (we think) works really well with most JavaScript projects|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
@@ -132,6 +134,7 @@ Collection of best of awesome repos on GitHub
 |[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)|Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more|
 |[Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)|The perfect Front-End Checklist for modern websites and meticulous developers https://frontendchecklist.io|
 |[Bolierplatedemos-fullstack](https://github.com/gothinkster/realworld)|"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 https://realworld.io/|
+|[project-guidelines](https://github.com/elsewhencode/project-guidelines)|list of guidelines we've found, written and gathered that (we think) works really well with most JavaScript projects|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
