@@ -113,6 +113,7 @@ Collection of best of awesome repos on GitHub
 |[auxiliary-engineering](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Auxillary%20Engineering.md)|Supporting teams - chammpios / aux engineers|
 |[12-attributes-for-mainframe-workloads](https://aws.amazon.com/blogs/apn/accelerating-agility-with-12-attributes-for-mainframe-workloads/)|12 attributes that can be used for showcase|
 |[awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources)| Awesome list of resources on Development.|
+|[Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)|Some useful websites for programmers.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
@@ -148,6 +149,7 @@ Collection of best of awesome repos on GitHub
 |[tech interview formats](https://yangshun.github.io/tech-interview-handbook/interview-formats)|across different organisations|
 |[reverse-interview](https://github.com/viraptor/reverse-interview)|Questions to ask the company during your interview|
 |[awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)|Technical interview questions|
+|[Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)|Some useful websites for programmers.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
