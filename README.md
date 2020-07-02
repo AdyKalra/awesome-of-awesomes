@@ -145,6 +145,7 @@ Collection of best of awesome repos on GitHub and other sources
 |  Name |  Summary | 
 |:-:    |:-:       |
 | [Google SRE books](https://landing.google.com/sre/books/)|1. Building Secure and Reliable Systems 2. The Site Realiability Workbook 3. Site Reliability Engineering|
+|[awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring)|A collection of Awesome resources for technical book authors|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
