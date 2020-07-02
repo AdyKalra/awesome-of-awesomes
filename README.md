@@ -9,7 +9,7 @@ Collection of best of awesome repos on GitHub and other sources
 |   	|   	|   	|   	|
 |:-:  |:-:  |:-:  |:-:  |
 | [awesome-aws](#awesome-aws) | [awesome-azure](#awesome-azure) 	| [awesome-googlecloud](#awesome-googlecloud) 	| [awesome-machinelearning](#awesome-machinelearning)| 
-| [awesome-web](#awesome-web) 	| [awesome-mobile](#awesome-mobile) 	| [awesome-backend](#awesome-backend) 	| [awesome-ops](#awesome-ops) 	| 
+| [awesome-web](#awesome-web) 	| [awesome-mobile](#awesome-mobile) 	| [awesome-backend](#awesome-backend) 	| [awesome-books](#awesome-books) 	| 
 | [awesome-recruitment](#awesome-recruitment) 	| [awesome-engineering](#awesome-engineering)	| [awesome-architecture](#awesome-architecture) 	| [awesome-bestpractices](#awesome-bestpractices) 	| 
 | [awesome-personalbranding](#awesome-personalbranding) 	| [awesome-leadership](#awesome-leadership)	| [awesome-techvision](#awesome-techvision) 	| [awesome-codingpractices](#awesome-codingpractices) 	| 
 
@@ -141,10 +141,10 @@ Collection of best of awesome repos on GitHub and other sources
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
-#### awesome-ops
+#### awesome-books
 |  Name |  Summary | 
 |:-:    |:-:       |
-| | |
+| [Google SRE books](https://landing.google.com/sre/books/)|1. Building Secure and Reliable Systems 2. The Site Realiability Workbook 3. Site Reliability Engineering|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
