@@ -187,5 +187,6 @@ Collection of best of awesome repos on GitHub and other sources
 |[awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)|The Patterns of Scalable, Reliable, and Performant Large-Scale Systems http://awesome-scalability.com/|
 |[awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)|A curated list of software and architecture related design patterns.|
 |[this-is-my-architecture](https://aws.amazon.com/this-is-my-architecture/?sc_channel=EL&sc_campaign=Explainer_2017_vid&sc_medium=YouTube&sc_content=video942&sc_detail=EXPLAINER&sc_country=US&tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc)|Innovative cloud architectures from AWS partners and customers|
+|[serverless-reference-architectures](https://www.jeremydaly.com/serverless-reference-architectures/)| new patterns regularly, each with interactive architecture diagrams to help you better understand them, and sample templates for you to begin quickly implementing them in your serverless projects|
 
 [Back to top :arrow_up:](#all-awesome-repos)
