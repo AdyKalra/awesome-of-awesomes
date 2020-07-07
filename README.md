@@ -30,6 +30,11 @@ Collection of best of awesome repos on GitHub and other sources
 |  [5 Adaptive IT Principles](https://aws.amazon.com/blogs/apn/5-adaptive-it-principles-to-get-digital-transformation-right/) | Reiterating Four key metrics and digital transformation framework. |
 |[Managers Playbook](https://github.com/ksindi/managers-playbook)|Heuristics for effective management.|
 |[Engineering Management](https://github.com/charlax/engineering-management)|A collection of inspiring resources related to engineering management and tech leadership|
+|[awesome-speaking](https://github.com/matteofigus/awesome-speaking)|Resources about public speaking|
+|[Public_Speaking](https://github.com/vmbrasseur/Public_Speaking)|public speaking, specifically in the context of software development and IT conferences.|
+|[weareallaweso](http://weareallaweso.me/)|tips for talks|
+|[awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)|tech online talks and screencasts|
+
  
 [Back to top :arrow_up:](#all-awesome-repos)
 
