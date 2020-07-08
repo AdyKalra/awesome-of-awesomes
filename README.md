@@ -180,6 +180,7 @@ Collection of best of awesome repos on GitHub and other sources
 |  [awesome-roadmaps](https://github.com/AdyKalra/awesome-roadmaps) | View roadmaps about developer roles to help you learn |
 |[Digital Transformation](https://www.thoughtworks.com/insights/transformation)|blog articles on transformation|
 |[engineering-culture-key-pillar-modern-digital-businesses](https://www.thoughtworks.com/insights/blog/engineering-culture-key-pillar-modern-digital-businesses)|practices and core to change|
+|[digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners)|curated list of resources, links, projects, and ideas for gardeners tending their digital notes on both public and private interwebs|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
