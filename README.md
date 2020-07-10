@@ -21,6 +21,7 @@ Collection of best of awesome repos on GitHub and other sources
 |:-:    |:-:       |  
 |  [gcloud-cheat-sheet](https://cloud.google.com/sdk/docs/images/gcloud-cheat-sheet.pdf) | GCD command line cheatsheet |
 
+[Back to top :arrow_up:](#all-awesome-repos)
 
 #### awesome-personalbranding
 |  Name |  Summary | 
@@ -86,13 +87,6 @@ Collection of best of awesome repos on GitHub and other sources
 [Back to top :arrow_up:](#all-awesome-repos)
 
 #### awesome-azure
-|  Name |  Summary | 
-|:-:    |:-:       |
-| | |
-
-[Back to top :arrow_up:](#all-awesome-repos)
-
-#### awesome-googlecloud
 |  Name |  Summary | 
 |:-:    |:-:       |
 | | |
