@@ -143,6 +143,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)|The perfect Front-End Checklist for modern websites and meticulous developers https://frontendchecklist.io|
 |[Bolierplatedemos-fullstack](https://github.com/gothinkster/realworld)|"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 https://realworld.io/|
 |[project-guidelines](https://github.com/elsewhencode/project-guidelines)|list of guidelines we've found, written and gathered that (we think) works really well with most JavaScript projects|
+|[free-for-dev](https://github.com/ripienaar/free-for-dev)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
@@ -171,6 +172,7 @@ Collection of best of awesome repos on GitHub and other sources
 |:-:    |:-:       |
 |[Bolierplatedemos-fullstack](https://github.com/gothinkster/realworld)|"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 https://realworld.io/|
 |  [awesome-python](https://github.com/AdyKalra/awesome-python) |A curated list of awesome Python frameworks, libraries, software and resources |
+|[free-for-dev](https://github.com/ripienaar/free-for-dev)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
