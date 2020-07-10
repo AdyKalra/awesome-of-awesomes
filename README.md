@@ -124,9 +124,10 @@ Collection of best of awesome repos on GitHub and other sources
 |[awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources)| Awesome list of resources on Development.|
 |[Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)|Some useful websites for programmers.|
 |[project-guidelines](https://github.com/elsewhencode/project-guidelines)|list of guidelines we've found, written and gathered that (we think) works really well with most JavaScript projects|
-|
-- [Code Deployment best practices](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Code%20Deployment%20best%20practices.md)
+|[Code Deployment best practices](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Code%20Deployment%20best%20practices.md)
 |deploys at Slack|
+|[tech-writing/one](https://developers.google.com/tech-writing/one)|Google documentation and technical writing|
+|[tech-writing/two](https://developers.google.com/tech-writing/two)|Google documentation and technical writing|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
