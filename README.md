@@ -186,6 +186,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[Digital Transformation](https://www.thoughtworks.com/insights/transformation)|blog articles on transformation|
 |[engineering-culture-key-pillar-modern-digital-businesses](https://www.thoughtworks.com/insights/blog/engineering-culture-key-pillar-modern-digital-businesses)|practices and core to change|
 |[digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners)|curated list of resources, links, projects, and ideas for gardeners tending their digital notes on both public and private interwebs|
+|[awesome-product-management](https://github.com/dend/awesome-product-management)|A curated list of awesome resources for product/program managers to learn and grow.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
