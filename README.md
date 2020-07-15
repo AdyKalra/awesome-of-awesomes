@@ -30,6 +30,7 @@ Collection of best of awesome repos on GitHub and other sources
 |:-:    |:-:       |  
 |  [awesome-portfolios](https://github.com/iRaul/awesome-portfolios) | A curated list of Awesome Creative Portfolios |
 | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | Dynamically generated stats for your github readmes |
+| [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)| collection of templates with multimedia and simple profiles|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
