@@ -21,6 +21,7 @@ Collection of best of awesome repos on GitHub and other sources
 |:-:    |:-:       |  
 |  [gcloud-cheat-sheet](https://cloud.google.com/sdk/docs/images/gcloud-cheat-sheet.pdf) | GCD command line cheatsheet |
 |[best-practices-for-enterprise-organizations](https://cloud.google.com/docs/enterprise/best-practices-for-enterprise-organizations)| GC all documentation|
+|[monitoring](https://cloud.google.com/monitoring/docs/apis)|GC metrics and practices|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
@@ -83,6 +84,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[Tech stack](https://stackshare.io/categories)|Stack comparison|
 |[code-review-best-practices](https://www.pluralsight.com/blog/platform/code-review-best-practices)|code-review-best-practices|
 |[code-review](https://www.pluralsight.com/blog/tutorials/code-review)|ENGINEERING MANAGER'S GUIDE TO THE CODE REVIEW PROCESS|
+|[monitoring](https://cloud.google.com/monitoring/docs/apis)|GC metrics and practices|
 
 
 [Back to top :arrow_up:](#all-awesome-repos)
@@ -128,6 +130,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[Code Deployment best practices](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Code%20Deployment%20best%20practices.md)|deploys at Slack|
 |[tech-writing/one](https://developers.google.com/tech-writing/one)|Google documentation and technical writing|
 |[tech-writing/two](https://developers.google.com/tech-writing/two)|Google documentation and technical writing|
+|[monitoring](https://cloud.google.com/monitoring/docs/apis)|GC metrics and practices|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
