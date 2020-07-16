@@ -45,6 +45,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[Public_Speaking](https://github.com/vmbrasseur/Public_Speaking)|public speaking, specifically in the context of software development and IT conferences.|
 |[weareallaweso](http://weareallaweso.me/)|tips for talks|
 |[awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)|tech online talks and screencasts|
+|[digital-transformation-leadership-manifesto](https://enterprisersproject.com/article/2020/7/digital-transformation-leadership-manifesto)|A manifesto for moving from good manager to true IT leader|
 
  
 [Back to top :arrow_up:](#all-awesome-repos)
