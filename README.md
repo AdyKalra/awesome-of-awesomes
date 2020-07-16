@@ -88,7 +88,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[code-review-best-practices](https://www.pluralsight.com/blog/platform/code-review-best-practices)|code-review-best-practices|
 |[code-review](https://www.pluralsight.com/blog/tutorials/code-review)|ENGINEERING MANAGER'S GUIDE TO THE CODE REVIEW PROCESS|
 |[monitoring](https://cloud.google.com/monitoring/docs/apis)|GC metrics and practices|
-
+|[awesome-devops](https://github.com/awesome-soft/awesome-devops)|A curated list of awesome softwares for Devops.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
