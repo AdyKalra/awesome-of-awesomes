@@ -174,7 +174,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)|Technical interview questions|
 |[Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)|Some useful websites for programmers.|
 |[what-i-learned-from-doing-60-technical-interviews-in-30-days](https://www.freecodecamp.org/news/what-i-learned-from-doing-60-technical-interviews-in-30-days/)|cover letter, networking, phone-call genuine interests|
-|[awesome-ml-ai-talent/recruitment]()|AI / ML Talent management|
+|[awesome-ml-ai-talent/recruitment](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/awesome-AI_ML_Talent_Mangement.md)|AI / ML Talent management|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
