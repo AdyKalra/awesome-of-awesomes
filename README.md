@@ -112,6 +112,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[free-programming-books](https://github.com/EbookFoundation/free-programming-books)|Freely available programming books|
 |[project-guidelines](https://github.com/elsewhencode/project-guidelines)|list of guidelines we've found, written and gathered that (we think) works really well with most JavaScript projects|
 |[app-ideas](https://github.com/florinpop17/app-ideas)|A Collection of application ideas which can be used to improve your coding skills.|
+|[making code mor inclusive](https://engineering.indeedblog.com/blog/2020/07/inclusion-in-code/)| removing terms in code that are inappropriate |
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
