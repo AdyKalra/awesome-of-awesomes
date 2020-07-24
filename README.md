@@ -89,6 +89,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[code-review](https://www.pluralsight.com/blog/tutorials/code-review)|ENGINEERING MANAGER'S GUIDE TO THE CODE REVIEW PROCESS|
 |[monitoring](https://cloud.google.com/monitoring/docs/apis)|GC metrics and practices|
 |[awesome-devops](https://github.com/awesome-soft/awesome-devops)|A curated list of awesome softwares for Devops.|
+|[Steps For Architecting a Smarter Tech Stack](https://blog.optimizely.com/2020/07/15/sofware-technology-stack/)|Simple Steps For Architecting a Smarter Tech Stack|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
