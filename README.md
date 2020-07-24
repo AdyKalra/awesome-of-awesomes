@@ -145,6 +145,7 @@ Collection of best of awesome repos on GitHub and other sources
 |  [awesome-flutter](https://github.com/AdyKalra/awesome-flutter) | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.|
 |[Bolierplatedemos-fullstack](https://github.com/gothinkster/realworld)|"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 https://realworld.io/|
 |[Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates)|Flutter Dart templates|
+|[eng-failover-handling](https://eng.uber.com/eng-failover-handling/)|Engineering Failover Handling in Uber’s Mobile Networking Infrastructure|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
