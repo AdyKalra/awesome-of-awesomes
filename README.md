@@ -91,6 +91,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[monitoring](https://cloud.google.com/monitoring/docs/apis)|GC metrics and practices|
 |[awesome-devops](https://github.com/awesome-soft/awesome-devops)|A curated list of awesome softwares for Devops.|
 |[Steps For Architecting a Smarter Tech Stack](https://blog.optimizely.com/2020/07/15/sofware-technology-stack/)|Simple Steps For Architecting a Smarter Tech Stack|
+|[PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)|Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
