@@ -48,7 +48,11 @@ Collection of best of awesome repos on GitHub and other sources
 |[awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)|tech online talks and screencasts|
 |[digital-transformation-leadership-manifesto](https://enterprisersproject.com/article/2020/7/digital-transformation-leadership-manifesto)|A manifesto for moving from good manager to true IT leader|
 |[the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist)|Books for people who are or aspire to manage/lead team(s) of software engineers|
-
+|[engineer-manager](https://github.com/ryanburgess/engineer-manager)|A list of engineering manager resource links.|
+|[engineeringladders](https://github.com/jorgef/engineeringladders)|A framework for Engineering Managers - roles explained|
+|[manager-resources](https://github.com/dmleong/manager-resources)|Views of an engineering manager at Github|
+|[manager-resources](https://github.com/VGraupera/manager-resources)|A curated list of resources for front-line engineering managers|
+|[engineering-management-resources](https://github.com/afternoon/engineering-management-resources)|A list of resources for engineering managers of all levels|
  
 [Back to top :arrow_up:](#all-awesome-repos)
 
