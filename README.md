@@ -46,6 +46,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[weareallaweso](http://weareallaweso.me/)|tips for talks|
 |[awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)|tech online talks and screencasts|
 |[digital-transformation-leadership-manifesto](https://enterprisersproject.com/article/2020/7/digital-transformation-leadership-manifesto)|A manifesto for moving from good manager to true IT leader|
+|[the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist)|Books for people who are or aspire to manage/lead team(s) of software engineers|
 
  
 [Back to top :arrow_up:](#all-awesome-repos)
@@ -207,6 +208,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners)|curated list of resources, links, projects, and ideas for gardeners tending their digital notes on both public and private interwebs|
 |[awesome-product-management](https://github.com/dend/awesome-product-management)|A curated list of awesome resources for product/program managers to learn and grow.|
 |[awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers)|For when people get too hyped up about things|
+|[the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist)|Books for people who are or aspire to manage/lead team(s) of software engineers|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
