@@ -58,6 +58,9 @@ Collection of best of awesome repos on GitHub and other sources
 |[awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers)|For when people get too hyped up about things|
 |[the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist)|Books for people who are or aspire to manage/lead team(s) of software engineers|
 |[strategy](https://www.linkedin.com/pulse/what-strategy-how-do-i-build-product-rohan-rajiv/)|What is strategy and how do I build strategy?|
+|[vpe-and-cto-the-first-90-days](https://www.kartar.net/2020/07/vpe-and-cto-the-first-90-days/)|mind map about what a new VP of Engineering or CTO should think about in their first 90 days in a new role.|
+|[Capability Catalog](https://www.devops-research.com/research.html)|TECHNICAL PROCESS MEASUREMENT CULTURAL catalogs|
+
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
