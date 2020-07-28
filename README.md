@@ -16,15 +16,6 @@ Collection of best of awesome repos on GitHub and other sources
 
 ### all-awesome-repos
 
-#### awesome-googlecloud
-|  Name |  Summary | 
-|:-:    |:-:       |  
-|  [gcloud-cheat-sheet](https://cloud.google.com/sdk/docs/images/gcloud-cheat-sheet.pdf) | GCD command line cheatsheet |
-|[best-practices-for-enterprise-organizations](https://cloud.google.com/docs/enterprise/best-practices-for-enterprise-organizations)| GC all documentation|
-|[monitoring](https://cloud.google.com/monitoring/docs/apis)|GC metrics and practices|
-
-[Back to top :arrow_up:](#all-awesome-repos)
-
 #### awesome-personalbranding
 |  Name |  Summary | 
 |:-:    |:-:       |  
@@ -53,16 +44,31 @@ Collection of best of awesome repos on GitHub and other sources
 |[manager-resources](https://github.com/dmleong/manager-resources)|Views of an engineering manager at Github|
 |[manager-resources](https://github.com/VGraupera/manager-resources)|A curated list of resources for front-line engineering managers|
 |[engineering-management-resources](https://github.com/afternoon/engineering-management-resources)|A list of resources for engineering managers of all levels|
- 
+
 [Back to top :arrow_up:](#all-awesome-repos)
 
-#### awesome-machinelearning
+#### awesome-books
 |  Name |  Summary | 
 |:-:    |:-:       |
-|  [awesome-machinelearning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome Machine Learning frameworks, libraries and software. |
-|  [awesome-Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) | machine learning and deep learning tutorials, articles and other resources |
-|[awesome-quant](https://github.com/wilsonfreitas/awesome-quant)|A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)|
-|[machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap)|A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.|
+| [Google SRE books](https://landing.google.com/sre/books/)|1. Building Secure and Reliable Systems 2. The Site Realiability Workbook 3. Site Reliability Engineering|
+|[awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring)|A collection of Awesome resources for technical book authors|
+|[engineering-blogs](https://github.com/sumodirjo/engineering-blogs)|A curated list of engineering blogs of startup and enterprise companies|
+
+[Back to top :arrow_up:](#all-awesome-repos)
+
+#### awesome-googlecloud
+|  Name |  Summary | 
+|:-:    |:-:       |  
+|  [gcloud-cheat-sheet](https://cloud.google.com/sdk/docs/images/gcloud-cheat-sheet.pdf) | GCD command line cheatsheet |
+|[best-practices-for-enterprise-organizations](https://cloud.google.com/docs/enterprise/best-practices-for-enterprise-organizations)| GC all documentation|
+|[monitoring](https://cloud.google.com/monitoring/docs/apis)|GC metrics and practices|
+
+[Back to top :arrow_up:](#all-awesome-repos)
+
+#### awesome-azure
+|  Name |  Summary | 
+|:-:    |:-:       |
+| | |
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
@@ -82,6 +88,16 @@ Collection of best of awesome repos on GitHub and other sources
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
+#### awesome-machinelearning
+|  Name |  Summary | 
+|:-:    |:-:       |
+|  [awesome-machinelearning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome Machine Learning frameworks, libraries and software. |
+|  [awesome-Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) | machine learning and deep learning tutorials, articles and other resources |
+|[awesome-quant](https://github.com/wilsonfreitas/awesome-quant)|A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)|
+|[machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap)|A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.|
+
+[Back to top :arrow_up:](#all-awesome-repos)
+
 #### awesome-engineering
 |  Name |  Summary | 
 |:-:    |:-:       |
@@ -98,13 +114,6 @@ Collection of best of awesome repos on GitHub and other sources
 |[awesome-devops](https://github.com/awesome-soft/awesome-devops)|A curated list of awesome softwares for Devops.|
 |[Steps For Architecting a Smarter Tech Stack](https://blog.optimizely.com/2020/07/15/sofware-technology-stack/)|Simple Steps For Architecting a Smarter Tech Stack|
 |[PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)|Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources|
-
-[Back to top :arrow_up:](#all-awesome-repos)
-
-#### awesome-azure
-|  Name |  Summary | 
-|:-:    |:-:       |
-| | |
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
@@ -168,15 +177,6 @@ Collection of best of awesome repos on GitHub and other sources
 |[free-for-dev](https://github.com/ripienaar/free-for-dev)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|
 |[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)|Roadmap to becoming a web developer in 2020|
 |[professional-programming](https://github.com/charlax/professional-programming)|A collection of full-stack resources for programmers.|
-
-[Back to top :arrow_up:](#all-awesome-repos)
-
-#### awesome-books
-|  Name |  Summary | 
-|:-:    |:-:       |
-| [Google SRE books](https://landing.google.com/sre/books/)|1. Building Secure and Reliable Systems 2. The Site Realiability Workbook 3. Site Reliability Engineering|
-|[awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring)|A collection of Awesome resources for technical book authors|
-|[engineering-blogs](https://github.com/sumodirjo/engineering-blogs)|A curated list of engineering blogs of startup and enterprise companies|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
