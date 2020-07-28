@@ -57,6 +57,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[awesome-product-management](https://github.com/dend/awesome-product-management)|A curated list of awesome resources for product/program managers to learn and grow.|
 |[awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers)|For when people get too hyped up about things|
 |[the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist)|Books for people who are or aspire to manage/lead team(s) of software engineers|
+|[strategy](https://www.linkedin.com/pulse/what-strategy-how-do-i-build-product-rohan-rajiv/)|What is strategy and how do I build strategy?|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
