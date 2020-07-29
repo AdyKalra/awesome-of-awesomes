@@ -132,6 +132,22 @@ Collection of best of awesome repos on GitHub and other sources
 |[Steps For Architecting a Smarter Tech Stack](https://blog.optimizely.com/2020/07/15/sofware-technology-stack/)|Simple Steps For Architecting a Smarter Tech Stack|
 |[PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)|Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources|
 
+#### awesome-architecture
+|  Name |  Summary | 
+|:-:    |:-:       |
+|  [awesome-software-architect-roadmap](https://github.com/AlaaAttya/software-architect-roadmap) | View roadmaps about architect roles to help you learn |
+|  [awesome-software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) | The software design and architecture roadmap for any developer https://solidbook.io |
+| [awesome-solution-architecture](https://github.com/unlight/solution-architecture) | Solution Architecture links, articles, books, video lessons, etc. |
+|[solutions-architecture-patterns](https://github.com/chanakaudaya/solutions-architecture-patterns) | solutions architecture patterns which can be reused to build enterprise software systems |
+|[data-oriented-design](https://github.com/dbartolini/data-oriented-design)|A curated list of data oriented design resources.|
+|[system-design-primer](https://github.com/donnemartin/system-design-primer)|Learn how to design large-scale systems.|
+|[awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)|The Patterns of Scalable, Reliable, and Performant Large-Scale Systems http://awesome-scalability.com/|
+|[awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)|A curated list of software and architecture related design patterns.|
+|[this-is-my-architecture](https://aws.amazon.com/this-is-my-architecture/?sc_channel=EL&sc_campaign=Explainer_2017_vid&sc_medium=YouTube&sc_content=video942&sc_detail=EXPLAINER&sc_country=US&tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc)|Innovative cloud architectures from AWS partners and customers|
+|[serverless-reference-architectures](https://www.jeremydaly.com/serverless-reference-architectures/)| new patterns regularly, each with interactive architecture diagrams to help you better understand them, and sample templates for you to begin quickly implementing them in your serverless projects|
+
+[Back to top :arrow_up:](#all-awesome-repos)
+
 [Back to top :arrow_up:](#all-awesome-repos)
 
 #### awesome-recruitment
@@ -218,21 +234,5 @@ Collection of best of awesome repos on GitHub and other sources
 |[free-for-dev](https://github.com/ripienaar/free-for-dev)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|
 |[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)|Roadmap to becoming a web developer in 2020|
 |[professional-programming](https://github.com/charlax/professional-programming)|A collection of full-stack resources for programmers.|
-
-[Back to top :arrow_up:](#all-awesome-repos)
-
-#### awesome-architecture
-|  Name |  Summary | 
-|:-:    |:-:       |
-|  [awesome-software-architect-roadmap](https://github.com/AlaaAttya/software-architect-roadmap) | View roadmaps about architect roles to help you learn |
-|  [awesome-software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) | The software design and architecture roadmap for any developer https://solidbook.io |
-| [awesome-solution-architecture](https://github.com/unlight/solution-architecture) | Solution Architecture links, articles, books, video lessons, etc. |
-|[solutions-architecture-patterns](https://github.com/chanakaudaya/solutions-architecture-patterns) | solutions architecture patterns which can be reused to build enterprise software systems |
-|[data-oriented-design](https://github.com/dbartolini/data-oriented-design)|A curated list of data oriented design resources.|
-|[system-design-primer](https://github.com/donnemartin/system-design-primer)|Learn how to design large-scale systems.|
-|[awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)|The Patterns of Scalable, Reliable, and Performant Large-Scale Systems http://awesome-scalability.com/|
-|[awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)|A curated list of software and architecture related design patterns.|
-|[this-is-my-architecture](https://aws.amazon.com/this-is-my-architecture/?sc_channel=EL&sc_campaign=Explainer_2017_vid&sc_medium=YouTube&sc_content=video942&sc_detail=EXPLAINER&sc_country=US&tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc)|Innovative cloud architectures from AWS partners and customers|
-|[serverless-reference-architectures](https://www.jeremydaly.com/serverless-reference-architectures/)| new patterns regularly, each with interactive architecture diagrams to help you better understand them, and sample templates for you to begin quickly implementing them in your serverless projects|
 
 [Back to top :arrow_up:](#all-awesome-repos)
