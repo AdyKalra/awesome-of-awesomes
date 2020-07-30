@@ -23,6 +23,7 @@ Collection of best of awesome repos on GitHub and other sources
 | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | Dynamically generated stats for your github readmes |
 | [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)| collection of templates with multimedia and simple profiles|
 |  [awesome-readme](https://github.com/matiassingers/awesome-readme) | A curated list of awesome READMEs |
+| [Digital transformation: 8 ways to spot your organization's rising leaders](https://enterprisersproject.com/article/2020/7/digital-transformation-rising-leaders)| Pointers on leadership in DT|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
