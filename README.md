@@ -24,6 +24,7 @@ Collection of best of awesome repos on GitHub and other sources
 | [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)| collection of templates with multimedia and simple profiles|
 |  [awesome-readme](https://github.com/matiassingers/awesome-readme) | A curated list of awesome READMEs |
 | [Digital transformation: 8 ways to spot your organization's rising leaders](https://enterprisersproject.com/article/2020/7/digital-transformation-rising-leaders)| Pointers on leadership in DT|
+|[how-to-manage-a-remote-team-well](https://speakerdeck.com/clairelew/indie-dot-vc-how-to-manage-a-remote-team-well-4aed63fb-673d-40a2-9321-a2f04c8a8f9c)|Managing remote teams|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
