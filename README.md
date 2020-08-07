@@ -23,8 +23,6 @@ Collection of best of awesome repos on GitHub and other sources
 | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | Dynamically generated stats for your github readmes |
 | [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)| collection of templates with multimedia and simple profiles|
 |  [awesome-readme](https://github.com/matiassingers/awesome-readme) | A curated list of awesome READMEs |
-| [Digital transformation: 8 ways to spot your organization's rising leaders](https://enterprisersproject.com/article/2020/7/digital-transformation-rising-leaders)| Pointers on leadership in DT|
-|[how-to-manage-a-remote-team-well](https://speakerdeck.com/clairelew/indie-dot-vc-how-to-manage-a-remote-team-well-4aed63fb-673d-40a2-9321-a2f04c8a8f9c)|Managing remote teams|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
@@ -46,6 +44,8 @@ Collection of best of awesome repos on GitHub and other sources
 |[manager-resources](https://github.com/dmleong/manager-resources)|Views of an engineering manager at Github|
 |[manager-resources](https://github.com/VGraupera/manager-resources)|A curated list of resources for front-line engineering managers|
 |[engineering-management-resources](https://github.com/afternoon/engineering-management-resources)|A list of resources for engineering managers of all levels|
+| [Digital transformation: 8 ways to spot your organization's rising leaders](https://enterprisersproject.com/article/2020/7/digital-transformation-rising-leaders)| Pointers on leadership in DT|
+|[how-to-manage-a-remote-team-well](https://speakerdeck.com/clairelew/indie-dot-vc-how-to-manage-a-remote-team-well-4aed63fb-673d-40a2-9321-a2f04c8a8f9c)|Managing remote teams|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
