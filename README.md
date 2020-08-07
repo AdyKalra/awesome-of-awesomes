@@ -115,6 +115,7 @@ Collection of best of awesome repos on GitHub and other sources
 |  [awesome-Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) | machine learning and deep learning tutorials, articles and other resources |
 |[awesome-quant](https://github.com/wilsonfreitas/awesome-quant)|A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)|
 |[machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap)|A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.|
+|[data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews)|Data science interview questions and answers|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
