@@ -49,23 +49,6 @@ Collection of best of awesome repos on GitHub and other sources
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
-#### awesome-techvision
-|  Name |  Summary | 
-|:-:    |:-:       |
-|  [awesome-roadmaps](https://github.com/AdyKalra/awesome-roadmaps) | View roadmaps about developer roles to help you learn |
-|[Digital Transformation](https://www.thoughtworks.com/insights/transformation)|blog articles on transformation|
-|[engineering-culture-key-pillar-modern-digital-businesses](https://www.thoughtworks.com/insights/blog/engineering-culture-key-pillar-modern-digital-businesses)|practices and core to change|
-|[digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners)|curated list of resources, links, projects, and ideas for gardeners tending their digital notes on both public and private interwebs|
-|[awesome-product-management](https://github.com/dend/awesome-product-management)|A curated list of awesome resources for product/program managers to learn and grow.|
-|[awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers)|For when people get too hyped up about things|
-|[the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist)|Books for people who are or aspire to manage/lead team(s) of software engineers|
-|[strategy](https://www.linkedin.com/pulse/what-strategy-how-do-i-build-product-rohan-rajiv/)|What is strategy and how do I build strategy?|
-|[vpe-and-cto-the-first-90-days](https://www.kartar.net/2020/07/vpe-and-cto-the-first-90-days/)|mind map about what a new VP of Engineering or CTO should think about in their first 90 days in a new role.|
-|[Capability Catalog](https://www.devops-research.com/research.html) [devops-culture-transform](https://cloud.google.com/solutions/devops/devops-culture-transform)|TECHNICAL PROCESS MEASUREMENT CULTURAL catalogs|
-
-
-[Back to top :arrow_up:](#all-awesome-repos)
-
 #### awesome-books
 |  Name |  Summary | 
 |:-:    |:-:       |
@@ -119,6 +102,22 @@ Collection of best of awesome repos on GitHub and other sources
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
+#### awesome-techvision
+|  Name |  Summary | 
+|:-:    |:-:       |
+|  [awesome-roadmaps](https://github.com/AdyKalra/awesome-roadmaps) | View roadmaps about developer roles to help you learn |
+|[Digital Transformation](https://www.thoughtworks.com/insights/transformation)|blog articles on transformation|
+|[engineering-culture-key-pillar-modern-digital-businesses](https://www.thoughtworks.com/insights/blog/engineering-culture-key-pillar-modern-digital-businesses)|practices and core to change|
+|[digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners)|curated list of resources, links, projects, and ideas for gardeners tending their digital notes on both public and private interwebs|
+|[awesome-product-management](https://github.com/dend/awesome-product-management)|A curated list of awesome resources for product/program managers to learn and grow.|
+|[awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers)|For when people get too hyped up about things|
+|[the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist)|Books for people who are or aspire to manage/lead team(s) of software engineers|
+|[strategy](https://www.linkedin.com/pulse/what-strategy-how-do-i-build-product-rohan-rajiv/)|What is strategy and how do I build strategy?|
+|[vpe-and-cto-the-first-90-days](https://www.kartar.net/2020/07/vpe-and-cto-the-first-90-days/)|mind map about what a new VP of Engineering or CTO should think about in their first 90 days in a new role.|
+|[Capability Catalog](https://www.devops-research.com/research.html) [devops-culture-transform](https://cloud.google.com/solutions/devops/devops-culture-transform)|TECHNICAL PROCESS MEASUREMENT CULTURAL catalogs|
+
+[Back to top :arrow_up:](#all-awesome-repos)
+
 #### awesome-engineering
 |  Name |  Summary | 
 |:-:    |:-:       |
@@ -140,6 +139,8 @@ Collection of best of awesome repos on GitHub and other sources
 |[PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)|Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources|
 |[how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)|How to systematically secure anything: a repository about security engineering|
 
+[Back to top :arrow_up:](#all-awesome-repos)
+
 #### awesome-architecture
 |  Name |  Summary | 
 |:-:    |:-:       |
@@ -153,8 +154,6 @@ Collection of best of awesome repos on GitHub and other sources
 |[awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)|A curated list of software and architecture related design patterns.|
 |[this-is-my-architecture](https://aws.amazon.com/this-is-my-architecture/?sc_channel=EL&sc_campaign=Explainer_2017_vid&sc_medium=YouTube&sc_content=video942&sc_detail=EXPLAINER&sc_country=US&tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc)|Innovative cloud architectures from AWS partners and customers|
 |[serverless-reference-architectures](https://www.jeremydaly.com/serverless-reference-architectures/)| new patterns regularly, each with interactive architecture diagrams to help you better understand them, and sample templates for you to begin quickly implementing them in your serverless projects|
-
-[Back to top :arrow_up:](#all-awesome-repos)
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
