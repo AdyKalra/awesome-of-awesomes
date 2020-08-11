@@ -88,6 +88,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[this-is-my-architecture](https://aws.amazon.com/this-is-my-architecture/?sc_channel=EL&sc_campaign=Explainer_2017_vid&sc_medium=YouTube&sc_content=video942&sc_detail=EXPLAINER&sc_country=US&tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc)|Innovative cloud architectures from AWS partners and customers|
 |[awesome-aws-certifications](https://github.com/ptcodes/awesome-aws-certifications)|A curated list of AWS certification materials: videos courses, practice exams, prep tips, etc.|
 |[awesome-aws](https://github.com/donnemartin/awesome-aws)|A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.|
+|[my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)|List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
