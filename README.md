@@ -71,7 +71,7 @@ Collection of best of awesome repos on GitHub and other sources
 #### awesome-azure
 |  Name |  Summary | 
 |:-:    |:-:       |
-| | |
+| [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)| collection of azure-quickstart-templates |
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
