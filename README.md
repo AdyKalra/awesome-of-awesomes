@@ -101,6 +101,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[awesome-quant](https://github.com/wilsonfreitas/awesome-quant)|A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)|
 |[machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap)|A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.|
 |[data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews)|Data science interview questions and answers|
+|[fastbook](https://github.com/fastai/fastbook)| draft notebooks cover an introduction to deep learning, fastai, and PyTorch, these notebooks will form the basis of this [book](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
