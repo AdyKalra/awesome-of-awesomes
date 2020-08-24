@@ -176,26 +176,31 @@ Collection of best of awesome repos on GitHub and other sources
 |[free-programming-books](https://github.com/EbookFoundation/free-programming-books)|Freely available programming books|
 |[project-guidelines](https://github.com/elsewhencode/project-guidelines)|list of guidelines we've found, written and gathered that (we think) works really well with most JavaScript projects|
 |[app-ideas](https://github.com/florinpop17/app-ideas)|A Collection of application ideas which can be used to improve your coding skills.|
-|[making code mor inclusive](https://engineering.indeedblog.com/blog/2020/07/inclusion-in-code/)| removing terms in code that are inappropriate |
+|[making code morE inclusive](https://engineering.indeedblog.com/blog/2020/07/inclusion-in-code/)| removing terms in code that are inappropriate |
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
 #### awesome-bestpractices
 |  Name |  Summary | 
 |:-:    |:-:       | 
+|**LANGUAGES / SERVICES**|**LANGUAGES / SERVICES**|
 |[nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)|The Node.js best practices list (May 2020)|
-|[scaling serverless bestpractices](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Scaling%20Serverless%20Applications.md)|Best practices for organizing larger serverless applications|
-|[scaling microservices betspractices](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Scaling%20Microservices.md)|Scaling Microservices|
-|[Infra as Code](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/Infrastructure%20as%20Code.md)|IAC best practices|
 |[Lambda Best Practices](https://github.com/AdyKalra/technolgytrends/blob/master/Development%20trends/AWS%20Lambda.md)|Lambda|
-|[Orchestrating CI CD Pipelines](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Orchestrating%20CI%20CD%20Pipelines.md)|best practices for CI CD|
-|[devsecops-nine-tips-shift-left](https://about.gitlab.com/blog/2020/06/23/efficient-devsecops-nine-tips-shift-left/)|dev secops practices|
-|[auxiliary-engineering](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Auxillary%20Engineering.md)|Supporting teams - chammpios / aux engineers|
-|[12-attributes-for-mainframe-workloads](https://aws.amazon.com/blogs/apn/accelerating-agility-with-12-attributes-for-mainframe-workloads/)|12 attributes that can be used for showcase|
 |[awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources)| Awesome list of resources on Development.|
 |[Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)|Some useful websites for programmers.|
 |[project-guidelines](https://github.com/elsewhencode/project-guidelines)|list of guidelines we've found, written and gathered that (we think) works really well with most JavaScript projects|
+|**MISSION TEAMS**|**MISSION TEAMS**|
+|[auxiliary-engineering](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Auxillary%20Engineering.md)|Supporting teams - chammpios / aux engineers|
+|**DESIGN**|**DESIGN**|
+|[scaling serverless bestpractices](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Scaling%20Serverless%20Applications.md)|Best practices for organizing larger serverless applications|
+|[scaling microservices betspractices](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Scaling%20Microservices.md)|Scaling Microservices|
+|**DEVOPS**|**DEVOPS**|
+|[Infra as Code](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/Infrastructure%20as%20Code.md)|IAC best practices|
+|[Orchestrating CI CD Pipelines](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Orchestrating%20CI%20CD%20Pipelines.md)|best practices for CI CD|
+|[devsecops-nine-tips-shift-left](https://about.gitlab.com/blog/2020/06/23/efficient-devsecops-nine-tips-shift-left/)|dev secops practices|
+|[12-attributes-for-mainframe-workloads](https://aws.amazon.com/blogs/apn/accelerating-agility-with-12-attributes-for-mainframe-workloads/)|12 attributes that can be used for showcase|
 |[Code Deployment best practices](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Code%20Deployment%20best%20practices.md)|deploys at Slack|
+|**MONITORING**|**MONITORING**|
 |[monitoring](https://cloud.google.com/monitoring/docs/apis)|GC metrics and practices|
 |**DOCUMENTATION**|**DOCUMENTATION**|
 |[awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing)|A curated list of awesome resources : articles, books, videos, tools, podcasts about technical writing |
