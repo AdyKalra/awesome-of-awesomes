@@ -26,6 +26,8 @@ Collection of best of awesome repos on GitHub and other sources
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
+<!--- END OF TOPIC--->
+
 #### awesome-leadership
 |  Name |  Summary | 
 |:-:    |:-:       |
@@ -50,6 +52,18 @@ Collection of best of awesome repos on GitHub and other sources
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
+<!--- END OF TOPIC--->
+
+#### awesome-recruitment
+|  Name |  Summary | 
+|:-:    |:-:       |
+| []() | |
+
+[Back to top :arrow_up:](#all-awesome-repos)
+
+<!--- END OF TOPIC--->
+
+
 #### awesome-books
 |  Name |  Summary | 
 |:-:    |:-:       |
@@ -60,6 +74,8 @@ Collection of best of awesome repos on GitHub and other sources
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
+<!--- END OF TOPIC--->
+
 #### awesome-googlecloud
 |  Name |  Summary | 
 |:-:    |:-:       |  
@@ -69,12 +85,16 @@ Collection of best of awesome repos on GitHub and other sources
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
+<!--- END OF TOPIC--->
+
 #### awesome-azure
 |  Name |  Summary | 
 |:-:    |:-:       |
 | [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)| collection of azure-quickstart-templates |
 
 [Back to top :arrow_up:](#all-awesome-repos)
+
+<!--- END OF TOPIC--->
 
 #### awesome-aws
 |  Name |  Summary | 
@@ -93,6 +113,8 @@ Collection of best of awesome repos on GitHub and other sources
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
+<!--- END OF TOPIC--->
+
 #### awesome-machinelearning
 |  Name |  Summary | 
 |:-:    |:-:       |
@@ -104,6 +126,8 @@ Collection of best of awesome repos on GitHub and other sources
 |[fastbook](https://github.com/fastai/fastbook)| draft notebooks cover an introduction to deep learning, fastai, and PyTorch, these notebooks will form the basis of this [book](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)|
 
 [Back to top :arrow_up:](#all-awesome-repos)
+
+<!--- END OF TOPIC--->
 
 #### awesome-techvision
 |  Name |  Summary | 
@@ -121,6 +145,8 @@ Collection of best of awesome repos on GitHub and other sources
 |[Five things all execs should know about technology](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/01%20Five%20things%20all%20execs%20should%20know%20about%20technology.md)| Tech Debt and more|
 
 [Back to top :arrow_up:](#all-awesome-repos)
+
+<!--- END OF TOPIC--->
 
 #### awesome-engineering
 |  Name |  Summary | 
@@ -143,7 +169,10 @@ Collection of best of awesome repos on GitHub and other sources
 |[PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)|Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources|
 |[how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)|How to systematically secure anything: a repository about security engineering|
 |[Application Monitoring Simplified](https://github.com/AdyKalra/technolgytrends/blob/master/PostProduction%20trends/application%20monitoring%20simplified.md)|How Netflix simplifies appln monitoring|
+
 [Back to top :arrow_up:](#all-awesome-repos)
+
+<!--- END OF TOPIC--->
 
 #### awesome-architecture
 |  Name |  Summary | 
@@ -163,6 +192,8 @@ Collection of best of awesome repos on GitHub and other sources
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
+<!--- END OF TOPIC--->
+
 #### awesome-codingpractices
 |  Name |  Summary | 
 |:-:    |:-:       |
@@ -179,6 +210,8 @@ Collection of best of awesome repos on GitHub and other sources
 |[making code morE inclusive](https://engineering.indeedblog.com/blog/2020/07/inclusion-in-code/)| removing terms in code that are inappropriate |
 
 [Back to top :arrow_up:](#all-awesome-repos)
+
+<!--- END OF TOPIC--->
 
 #### awesome-bestpractices
 |  Name |  Summary | 
@@ -209,6 +242,8 @@ Collection of best of awesome repos on GitHub and other sources
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
+<!--- END OF TOPIC--->
+
 #### awesome-web
 |  Name |  Summary | 
 |:-:    |:-:       |
@@ -224,6 +259,8 @@ Collection of best of awesome repos on GitHub and other sources
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
+<!--- END OF TOPIC--->
+
 #### awesome-backend
 |  Name |  Summary | 
 |:-:    |:-:       |
@@ -236,6 +273,8 @@ Collection of best of awesome repos on GitHub and other sources
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
+<!--- END OF TOPIC--->
+
 #### awesome-mobile
 |  Name |  Summary | 
 |:-:    |:-:       |
@@ -245,3 +284,5 @@ Collection of best of awesome repos on GitHub and other sources
 |[eng-failover-handling](https://eng.uber.com/eng-failover-handling/)|Engineering Failover Handling in Uber’s Mobile Networking Infrastructure|
 
 [Back to top :arrow_up:](#all-awesome-repos)
+
+<!--- END OF TOPIC--->
