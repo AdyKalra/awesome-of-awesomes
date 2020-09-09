@@ -111,6 +111,10 @@ Collection of best of awesome repos on GitHub and other sources
 |[awesome-aws-certifications](https://github.com/ptcodes/awesome-aws-certifications)|A curated list of AWS certification materials: videos courses, practice exams, prep tips, etc.|
 |[awesome-aws](https://github.com/donnemartin/awesome-aws)|A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.|
 |[my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)|List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.|
+|[operational-excellence](https://wellarchitectedlabs.com/operational-excellence/)|AWS well architected labs - Operational Excellence|
+|[security](https://wellarchitectedlabs.com/security/)|AWS well architected labs - Security|
+|[reliability](https://wellarchitectedlabs.com/reliability/)|AWS well architected labs - Operational Reliability|
+|[performance-efficiency](https://wellarchitectedlabs.com/performance-efficiency/)|AWS well architected labs - Performance Efficiency|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
