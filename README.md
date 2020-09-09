@@ -49,6 +49,7 @@ Collection of best of awesome repos on GitHub and other sources
 | [Digital transformation: 8 ways to spot your organization's rising leaders](https://enterprisersproject.com/article/2020/7/digital-transformation-rising-leaders)| Pointers on leadership in DT|
 |[The Best Trust Building Techniques for Busy Leaders](https://www.linkedin.com/pulse/best-trust-building-techniques-busy-leaders-john-eades/?trk=eml-email_series_follow_newsletter_01-hero-147-title_link&midToken=AQG1mCnrvban4w&fromEmail=fromEmail&ut=2Je05Q45-2oFo1)|principle in Building the Best |
 |[how-to-manage-a-remote-team-well](https://speakerdeck.com/clairelew/indie-dot-vc-how-to-manage-a-remote-team-well-4aed63fb-673d-40a2-9321-a2f04c8a8f9c)|Managing remote teams|
+|[awesome-management](https://github.com/kdeldycke/awesome-management)|👔 Engineering Team Management Knowledge Base|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
