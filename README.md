@@ -10,7 +10,7 @@ Collection of best of awesome repos on GitHub and other sources
 |:-:  |:-:  |:-:  |:-:  |
 | [awesome-aws](#awesome-aws) | [awesome-azure](#awesome-azure) 	| [awesome-googlecloud](#awesome-googlecloud) 	| [awesome-machinelearning](#awesome-machinelearning)| 
 | [awesome-web](#awesome-web) 	| [awesome-mobile](#awesome-mobile) 	| [awesome-backend](#awesome-backend) 	| [awesome-books/blogs/reusablerepos](#awesome-books) 	| 
-| [awesome-recruitment](#awesome-recruitment) | [awesome-engineering/devops](#awesome-engineering)	| [awesome-architecture](#awesome-architecture) 	| [awesome-bestpractices](#awesome-bestpractices) 	| 
+| [awesome-recruitment](#awesome-recruitment) | [awesome-engineering/devops/ops](#awesome-engineering)	| [awesome-architecture](#awesome-architecture) 	| [awesome-bestpractices](#awesome-bestpractices) 	| 
 | [awesome-personalbranding](#awesome-personalbranding) 	| [awesome-leadership](#awesome-leadership)	| [awesome-techvision](#awesome-techvision) 	| [awesome-codingpractices](#awesome-codingpractices) 	| 
 
 
@@ -157,13 +157,16 @@ Collection of best of awesome repos on GitHub and other sources
 #### awesome-engineering
 |  Name |  Summary | 
 |:-:    |:-:       |
-|**DEVOPS**|**DEVOPS**|
+|**DEVOPS / OPS**|**DEVOPS / OPS**|
 |[awesome-devops](https://github.com/awesome-soft/awesome-devops)|A curated list of awesome softwares for Devops.|
 |[awesome-devopstools](https://github.com/wmariuss/awesome-devops)|A curated list of awesome DevOps tools, platforms and resources|
+|[resilience-engineering](https://github.com/lorin/resilience-engineering)|Resilience engineering papers|
+
 |**ENGINEERING**|**ENGINEERING**|
 |[Google Engineering practices](https://github.com/google/eng-practices)|Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time.|
 |[Technology Trends](https://github.com/AdyKalra/technolgytrends)|Everything tech - idiosyncratic opinion of a bunch of feeds , radars and technologists across the globe.
 |[awesome-engineering blogs](https://github.com/upgundecha/awesome-engineering)|A curated list of awesome engineering blogs, handbooks and open source repos from top technology companies|
+|[learningfromincidents.io](https://www.learningfromincidents.io/)|learningfromincidents|
 |[Awesome stacks](https://awesomestacks.dev/?ref=stackshare)| https://github.com/stackshareio/awesome-stacks A curated list of tech stacks for building different applications & features|
 |[20 patterns to watch for in your engineering team](https://www.pluralsight.com/product/flow/20-patterns)|A field guide to help you recognize achievement, spot bottlenecks, and debug your development process with data|
 |[auxiliary-engineering](https://tech.wayfair.com/2020/06/what-is-auxiliary-engineering/)|Supporting teams - chammpios / aux engineers|
