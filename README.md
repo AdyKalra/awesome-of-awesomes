@@ -116,6 +116,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[reliability](https://wellarchitectedlabs.com/reliability/)|AWS well architected labs - Operational Reliability|
 |[performance-efficiency](https://wellarchitectedlabs.com/performance-efficiency/)|AWS well architected labs - Performance Efficiency|
 |[aws-cloudformation-user-guide](https://github.com/awsdocs/aws-cloudformation-user-guide/tree/master/doc_source)|all cloud formation templates|
+|[Jump-starting your serverless development environment](https://aws.amazon.com/blogs/compute/jump-starting-your-serverless-development-environment/)|Developers building serverless applications often wonder how they can jump-start their local development environment. Command line tooling - AWS CLI, AWS Serverless Application Model (AWS SAM CLI), Template validation tooling - CloudFormation Linter, AWS Toolkit for Visual Studio Code, Cost and performance optimization tooling - AWS Lambda power tuner, Monitoring and debugging tooling - Sls-dev-tools, Serverless database tooling - NoSQL Workbench for Amazon DynamoDB |
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
