@@ -131,6 +131,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap)|A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.|
 |[data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews)|Data science interview questions and answers|
 |[fastbook](https://github.com/fastai/fastbook)| draft notebooks cover an introduction to deep learning, fastai, and PyTorch, these notebooks will form the basis of this [book](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)|
+|[learning](https://github.com/amitness/learning)|Becoming 1% better at data science everyday|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
