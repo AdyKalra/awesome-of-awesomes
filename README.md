@@ -195,6 +195,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[solutions-architecture-patterns](https://github.com/chanakaudaya/solutions-architecture-patterns) | solutions architecture patterns which can be reused to build enterprise software systems |
 |[data-oriented-design](https://github.com/dbartolini/data-oriented-design)|A curated list of data oriented design resources.|
 |[system-design-primer](https://github.com/donnemartin/system-design-primer)|Learn how to design large-scale systems.|
+|[low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer)|Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.|
 |[awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)|The Patterns of Scalable, Reliable, and Performant Large-Scale Systems http://awesome-scalability.com/|
 |[awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)|A curated list of software and architecture related design patterns.|
 |[this-is-my-architecture](https://aws.amazon.com/this-is-my-architecture/?sc_channel=EL&sc_campaign=Explainer_2017_vid&sc_medium=YouTube&sc_content=video942&sc_detail=EXPLAINER&sc_country=US&tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc)|Innovative cloud architectures from AWS partners and customers|
