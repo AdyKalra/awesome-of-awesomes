@@ -50,6 +50,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[The Best Trust Building Techniques for Busy Leaders](https://www.linkedin.com/pulse/best-trust-building-techniques-busy-leaders-john-eades/?trk=eml-email_series_follow_newsletter_01-hero-147-title_link&midToken=AQG1mCnrvban4w&fromEmail=fromEmail&ut=2Je05Q45-2oFo1)|principle in Building the Best |
 |[how-to-manage-a-remote-team-well](https://speakerdeck.com/clairelew/indie-dot-vc-how-to-manage-a-remote-team-well-4aed63fb-673d-40a2-9321-a2f04c8a8f9c)|Managing remote teams|
 |[awesome-management](https://github.com/kdeldycke/awesome-management)|👔 Engineering Team Management Knowledge Base|
+|[1on1-questions](https://github.com/VGraupera/1on1-questions)|Mega list of 1 on 1 meeting questions compiled from a variety to sources|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
