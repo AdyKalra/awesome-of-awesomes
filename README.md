@@ -302,6 +302,12 @@ Collection of best of awesome repos on GitHub and other sources
 |[Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates)|Flutter Dart templates|
 |[eng-failover-handling](https://eng.uber.com/eng-failover-handling/)|Engineering Failover Handling in Uber’s Mobile Networking Infrastructure|
 |[E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI)|Flutter UI ecommerce demo|
+|[android-awesome-libraries](https://github.com/kaiinui/android-awesome-libraries)|There are many libraries which helps your android development!|
+|[android-dev-readme](https://github.com/anirudh24seven/android-dev-readme)|Collection of links for every Android developer|
+|[android-open-project](https://github.com/Trinea/android-open-project)|A categorized collection of Android Open Source Projects, More powerful web version:|
+|[android-security-awesome](https://github.com/ashishb/android-security-awesome)|A collection of android security related resources|
+|[]()||
+|[]()||
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
