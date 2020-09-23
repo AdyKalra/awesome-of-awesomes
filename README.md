@@ -153,6 +153,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[vpe-and-cto-the-first-90-days](https://www.kartar.net/2020/07/vpe-and-cto-the-first-90-days/)|mind map about what a new VP of Engineering or CTO should think about in their first 90 days in a new role.|
 |[Capability Catalog](https://www.devops-research.com/research.html) [devops-culture-transform](https://cloud.google.com/solutions/devops/devops-culture-transform)|TECHNICAL PROCESS MEASUREMENT CULTURAL catalogs|
 |[Five things all execs should know about technology](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/01%20Five%20things%20all%20execs%20should%20know%20about%20technology.md)| Tech Debt and more|
+|[Products and platforms](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Products%20and%20platforms%20Is%20your%20technology%20operating%20model%20ready/products-and-platforms-technology-operating-model-ready.pdf)|Platforms - Is your technologyoperating model read|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
