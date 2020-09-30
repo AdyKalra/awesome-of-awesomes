@@ -278,6 +278,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)|Best-websites-a-programmer-should-visit|Some useful websites for programmers.|
 |[four-key](https://github.com/Trendyol/four-key)|four-key is a measurement tool written with golang for your repositories. This project inspired from Accelerate book.|
 |[CDK-SPA-Deploy](https://github.com/nideveloper/CDK-SPA-Deploy)|This is an AWS CDK Construct to make deploying a single page website (Angular/React/Vue) to AWS S3 behind SSL/Cloudfront easier|
+|[awesome-react](https://github.com/enaqx/awesome-react)|A collection of awesome things regarding the React ecosystem.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
