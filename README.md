@@ -230,6 +230,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[app-ideas](https://github.com/florinpop17/app-ideas)|A Collection of application ideas which can be used to improve your coding skills.|
 |[making code morE inclusive](https://engineering.indeedblog.com/blog/2020/07/inclusion-in-code/)| removing terms in code that are inappropriate |
 |[codecov](https://github.com/marketplace/codecov)|Codecov provides highly integrated tools to group, merge, archive and compare coverage reports.|
+|[](https://github.com/iluwatar/java-design-patterns)|Design patterns implemented in Java|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
