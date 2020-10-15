@@ -74,6 +74,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[engineering-blogs](https://github.com/sumodirjo/engineering-blogs)|A curated list of engineering blogs of startup and enterprise companies|
 |[engineering-blogs](https://github.com/kilimchoi/engineering-blogs)|A curated list of engineering blogs of startup and enterprise companies|
 |[emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)|A markdown version emoji cheat sheet|
+|[awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)|▶️ An awesome list containing awesome YouTubers that teach about technology.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
