@@ -296,6 +296,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)|Short JavaScript code snippets for all your development needs|
 |[react-redux-realworld-example-app](https://github.com/gothinkster/react-redux-realworld-example-app)|Exemplary real world application built with React + Redux|
 |[angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app)|Exemplary real world application built with angular|
+|[frontend-development](https://github.com/developer-resources/frontend-development)|A curated list of resources for Frontend development|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
