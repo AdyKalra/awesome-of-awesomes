@@ -333,6 +333,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[iOSDevResource](https://github.com/objcc/iOSDevResource)|The Best Awesome iOS Development Resource List, Updating|
 |[android roadmap](https://roadmap.sh/android)|android roadmap|
 |[flutter_roadmap](https://github.com/olexale/flutter_roadmap)|Highly Subjective Roadmap to Flutter Development|
+|[awesomefluttertips](https://github.com/erluxman/awesomefluttertips)|❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 
