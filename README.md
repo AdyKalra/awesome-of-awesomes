@@ -25,6 +25,7 @@ Collection of best of awesome repos on GitHub and other sources
 |  [awesome-readme](https://github.com/matiassingers/awesome-readme) | A curated list of awesome READMEs |
 
 [Back to top :arrow_up:](#all-awesome-repos)
+[Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
 
 <!--- END OF TOPIC--->
 
@@ -53,6 +54,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[1on1-questions](https://github.com/VGraupera/1on1-questions)|Mega list of 1 on 1 meeting questions compiled from a variety to sources|
 
 [Back to top :arrow_up:](#all-awesome-repos)
+[Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
 
 <!--- END OF TOPIC--->
 
@@ -62,6 +64,7 @@ Collection of best of awesome repos on GitHub and other sources
 | []() | |
 
 [Back to top :arrow_up:](#all-awesome-repos)
+[Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
 
 <!--- END OF TOPIC--->
 
@@ -78,6 +81,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[4-digital-transformation-books-for-leaders](https://enterprisersproject.com/article/2020/11/4-digital-transformation-books-for-leaders)|4-digital-transformation-books-for-leaders|
 
 [Back to top :arrow_up:](#all-awesome-repos)
+[Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
 
 <!--- END OF TOPIC--->
 
@@ -89,6 +93,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[monitoring](https://cloud.google.com/monitoring/docs/apis)|GC metrics and practices|
 
 [Back to top :arrow_up:](#all-awesome-repos)
+[Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
 
 <!--- END OF TOPIC--->
 
@@ -99,7 +104,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)|This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js|
 
 [Back to top :arrow_up:](#all-awesome-repos)
-
+[Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
 <!--- END OF TOPIC--->
 
 #### awesome-aws
@@ -126,6 +131,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[AWS-in-bullet-points](https://github.com/undergroundwires/AWS-in-bullet-points)|☁️ AWS summary in bullet points|
 
 [Back to top :arrow_up:](#all-awesome-repos)
+[Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
 
 <!--- END OF TOPIC--->
 
@@ -143,6 +149,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)|Roadmap to becoming an Artificial Intelligence Expert in 2020|
 
 [Back to top :arrow_up:](#all-awesome-repos)
+[Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
 
 <!--- END OF TOPIC--->
 
@@ -164,6 +171,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[why-do-organizations-need-a-platform-team](https://medium.com/adobetech/why-do-organizations-need-a-platform-team-910d79893e0a)|Formula for Platform teams|
 
 [Back to top :arrow_up:](#all-awesome-repos)
+[Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
 
 <!--- END OF TOPIC--->
 
@@ -198,6 +206,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)|Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
+[Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
 
 <!--- END OF TOPIC--->
 
@@ -220,6 +229,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[awesome-software-architecture](https://github.com/simskij/awesome-software-architecture)|A curated list of resources on software architecture|
 
 [Back to top :arrow_up:](#all-awesome-repos)
+[Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
 
 <!--- END OF TOPIC--->
 
@@ -242,6 +252,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[awesome-devenv](https://github.com/jondot/awesome-devenv)|A curated list of awesome tools, resources and workflow tips making an awesome development environment.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
+[Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
 
 <!--- END OF TOPIC--->
 
@@ -274,6 +285,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[tech-writing/two](https://developers.google.com/tech-writing/two)|Google documentation and technical writing|
 
 [Back to top :arrow_up:](#all-awesome-repos)
+[Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
 
 <!--- END OF TOPIC--->
 
@@ -300,6 +312,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[frontend-development](https://github.com/developer-resources/frontend-development)|A curated list of resources for Frontend development|
 
 [Back to top :arrow_up:](#all-awesome-repos)
+[Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
 
 <!--- END OF TOPIC--->
 
@@ -315,6 +328,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[four-key](https://github.com/Trendyol/four-key)|four-key is a measurement tool written with golang for your repositories. This project inspired from Accelerate book.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
+[Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
 
 <!--- END OF TOPIC--->
 
@@ -338,5 +352,6 @@ Collection of best of awesome repos on GitHub and other sources
 |[awesomefluttertips](https://github.com/erluxman/awesomefluttertips)|❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️|
 
 [Back to top :arrow_up:](#all-awesome-repos)
+[Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
 
 <!--- END OF TOPIC--->
