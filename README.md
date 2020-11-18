@@ -53,6 +53,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[awesome-management](https://github.com/kdeldycke/awesome-management)|👔 Engineering Team Management Knowledge Base|
 |[1on1-questions](https://github.com/VGraupera/1on1-questions)|Mega list of 1 on 1 meeting questions compiled from a variety to sources|
 |[ways-to-be-more-confident-concise-communicator](https://www.businessinsider.com/ways-to-be-more-confident-concise-communicator-2020-10?r=AU&IR=T)|An integral part of effective communication is the ability to share your point in a concise manner without sacrificing information or understanding. This article offers useful ways to sharpen this skill.|
+|[radical-candor-framework-engineering-manager-success](https://www.toptal.com/software/radical-candor-framework-engineering-manager-success)|radical candor - management style|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
