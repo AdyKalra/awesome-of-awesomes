@@ -172,6 +172,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[Products and platforms](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Products%20and%20platforms%20Is%20your%20technology%20operating%20model%20ready/products-and-platforms-technology-operating-model-ready.pdf)|Platforms - Is your technologyoperating model read|
 |[why-do-organizations-need-a-platform-team](https://medium.com/adobetech/why-do-organizations-need-a-platform-team-910d79893e0a)|Formula for Platform teams|
 |[Building Blocks Of Capability](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Building%20Blocks%20Of%20Capability%20.md)|capabilty / operating model |
+|[CNCF](https://landscape.cncf.io/format=card-mode)|Cloud Native Interactive Landscape - filter by category|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
