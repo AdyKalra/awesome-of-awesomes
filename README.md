@@ -14,6 +14,7 @@ Collection of best of awesome repos on GitHub and other sources
 | [awesome-personalbranding](#awesome-personalbranding) 	| [awesome-leadership](#awesome-leadership)	| [awesome-techvision](#awesome-techvision) 	| [awesome-codingpractices](#awesome-codingpractices) 	| 
 
 
+
 ### all-awesome-repos
 
 #### awesome-personalbranding
@@ -188,6 +189,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[resilience-engineering](https://github.com/lorin/resilience-engineering)|Resilience engineering papers|
 |[awesome-sre](https://github.com/dastergon/awesome-sre)|A curated list of Site Reliability and Production Engineering resources.|
 |[cloudtools](https://github.com/cloudtools)|Stacker , Troposhere and more|
+|[devopsbookmarks](http://www.devopsbookmarks.com/)|Discover tools and frameworks in the DevOps landscape.|
 |**ENGINEERING**|**ENGINEERING**|
 |[Google Engineering practices](https://github.com/google/eng-practices)|Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time.|
 |[Technology Trends](https://github.com/AdyKalra/technolgytrends)|Everything tech - idiosyncratic opinion of a bunch of feeds , radars and technologists across the globe.
