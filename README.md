@@ -208,6 +208,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)|Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources|
 |[how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)|How to systematically secure anything: a repository about security engineering|
 |[Application Monitoring Simplified](https://github.com/AdyKalra/technolgytrends/blob/master/PostProduction%20trends/application%20monitoring%20simplified.md)|How Netflix simplifies appln monitoring|
+|[hacker-laws](https://github.com/dwmkerr/hacker-laws)|Laws, Theories, Principles and Patterns that engineers will find useful. #hackerlaws|
 |**TESTING**|**TESTING**|
 |[howtheytest](https://github.com/abhivaikar/howtheytest)|A collection of public resources about how software companies test their software|
 |[javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)|exhaustive JavaScript & Node.js testing best practices (July 2020)|
