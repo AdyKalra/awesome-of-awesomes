@@ -96,6 +96,7 @@ Collection of best of awesome repos on GitHub and other sources
 |  [gcloud-cheat-sheet](https://cloud.google.com/sdk/docs/images/gcloud-cheat-sheet.pdf) | GCD command line cheatsheet |
 |[best-practices-for-enterprise-organizations](https://cloud.google.com/docs/enterprise/best-practices-for-enterprise-organizations)| GC all documentation|
 |[monitoring](https://cloud.google.com/monitoring/docs/apis)|GC metrics and practices|
+|[GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote)|GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
