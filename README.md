@@ -56,6 +56,8 @@ Collection of best of awesome repos on GitHub and other sources
 |[ways-to-be-more-confident-concise-communicator](https://www.businessinsider.com/ways-to-be-more-confident-concise-communicator-2020-10?r=AU&IR=T)|An integral part of effective communication is the ability to share your point in a concise manner without sacrificing information or understanding. This article offers useful ways to sharpen this skill.|
 |[radical-candor-framework-engineering-manager-success](https://www.toptal.com/software/radical-candor-framework-engineering-manager-success)|radical candor - management style|
 |[most-common-business-acronyms](https://www.themuse.com/advice/your-ultimate-cheat-sheet-to-deciphering-the-123-most-common-business-acronyms)|most-common-business-acronyms|
+|[7-steps-to-technical-leadership](https://magdamiu.com/2020/09/12/7-steps-to-technical-leadership/)|technical leadership models|
+|[mental-model-for-leading-high-performance-engineering-teams](https://medium.com/@_chrishan/a-mental-model-for-leading-high-performance-engineering-teams-bf84caed50dd)|model that helps create an environment and climate for your engineers to do their best work.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
