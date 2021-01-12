@@ -196,6 +196,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[awesome-sre](https://github.com/dastergon/awesome-sre)|A curated list of Site Reliability and Production Engineering resources.|
 |[cloudtools](https://github.com/cloudtools)|Stacker , Troposhere and more|
 |[devopsbookmarks](http://www.devopsbookmarks.com/)|Discover tools and frameworks in the DevOps landscape.|
+|[Cloud & DevSecOps Learning](https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md)|Collection of Cloud and DevSecOps learning resources|
 |**ENGINEERING**|**ENGINEERING**|
 |[Google Engineering practices](https://github.com/google/eng-practices)|Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time.|
 |[Technology Trends](https://github.com/AdyKalra/technolgytrends)|Everything tech - idiosyncratic opinion of a bunch of feeds , radars and technologists across the globe.
