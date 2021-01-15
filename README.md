@@ -110,6 +110,7 @@ Collection of best of awesome repos on GitHub and other sources
 |:-:    |:-:       |
 | [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)| collection of azure-quickstart-templates |
 |[azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)|This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js|
+|[azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)|Azure Quickstart Templates|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
