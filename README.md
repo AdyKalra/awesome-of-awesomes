@@ -344,6 +344,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[professional-programming](https://github.com/charlax/professional-programming)|A collection of full-stack resources for programmers.|
 |[Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)|Best-websites-a-programmer-should-visit|Some useful websites for programmers.|
 |[four-key](https://github.com/Trendyol/four-key)|four-key is a measurement tool written with golang for your repositories. This project inspired from Accelerate book.|
+|[data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap)|Roadmap to becoming a data engineer in 2021|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
