@@ -199,6 +199,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[cloudtools](https://github.com/cloudtools)|Stacker , Troposhere and more|
 |[devopsbookmarks](http://www.devopsbookmarks.com/)|Discover tools and frameworks in the DevOps landscape.|
 |[Cloud & DevSecOps Learning](https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md)|Collection of Cloud and DevSecOps learning resources|
+|[roi-calculator](https://gradle.com/roi-calculator/)|Gradle - How much can you improve your developer productivity?|
 |**ENGINEERING**|**ENGINEERING**|
 |[Google Engineering practices](https://github.com/google/eng-practices)|Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time.|
 |[Technology Trends](https://github.com/AdyKalra/technolgytrends)|Everything tech - idiosyncratic opinion of a bunch of feeds , radars and technologists across the globe.
@@ -216,6 +217,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)|How to systematically secure anything: a repository about security engineering|
 |[Application Monitoring Simplified](https://github.com/AdyKalra/technolgytrends/blob/master/PostProduction%20trends/application%20monitoring%20simplified.md)|How Netflix simplifies appln monitoring|
 |[hacker-laws](https://github.com/dwmkerr/hacker-laws)|Laws, Theories, Principles and Patterns that engineers will find useful. #hackerlaws|
+|[roi-calculator](https://gradle.com/roi-calculator/)|Gradle - How much can you improve your developer productivity?|
 |**TESTING**|**TESTING**|
 |[howtheytest](https://github.com/abhivaikar/howtheytest)|A collection of public resources about how software companies test their software|
 |[javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)|exhaustive JavaScript & Node.js testing best practices (July 2020)|
