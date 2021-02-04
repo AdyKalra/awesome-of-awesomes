@@ -59,6 +59,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[7-steps-to-technical-leadership](https://magdamiu.com/2020/09/12/7-steps-to-technical-leadership/)|technical leadership models|
 |[mental-model-for-leading-high-performance-engineering-teams](https://medium.com/@_chrishan/a-mental-model-for-leading-high-performance-engineering-teams-bf84caed50dd)|model that helps create an environment and climate for your engineers to do their best work.|
 |[7 Must-Do’s to Nurture 10x Engineers](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/7%20Must-Do%E2%80%99s%20to%20Nurture%2010x%20Engineers.md)|Nice one on nurturing tech talent|
+|[awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management)|Nice one for leads - 👔 How to transition from software development to engineering management|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
