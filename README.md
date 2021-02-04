@@ -184,6 +184,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[why-do-organizations-need-a-platform-team](https://medium.com/adobetech/why-do-organizations-need-a-platform-team-910d79893e0a)|Formula for Platform teams|
 |[Building Blocks Of Capability](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Building%20Blocks%20Of%20Capability%20.md)|capabilty / operating model |
 |[CNCF](https://landscape.cncf.io/format=card-mode)|Cloud Native Interactive Landscape - filter by category|
+|[awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering)|A curated list of Chaos Engineering resources.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
@@ -201,6 +202,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[cloudtools](https://github.com/cloudtools)|Stacker , Troposhere and more|
 |[devopsbookmarks](http://www.devopsbookmarks.com/)|Discover tools and frameworks in the DevOps landscape.|
 |[Cloud & DevSecOps Learning](https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md)|Collection of Cloud and DevSecOps learning resources|
+|[awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering)|A curated list of Chaos Engineering resources.|
 |[roi-calculator](https://gradle.com/roi-calculator/)|Gradle - How much can you improve your developer productivity?|
 |**ENGINEERING**|**ENGINEERING**|
 |[Google Engineering practices](https://github.com/google/eng-practices)|Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time.|
