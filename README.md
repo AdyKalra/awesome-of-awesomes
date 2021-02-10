@@ -186,6 +186,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[Building Blocks Of Capability](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Building%20Blocks%20Of%20Capability%20.md)|capabilty / operating model |
 |[CNCF](https://landscape.cncf.io/format=card-mode)|Cloud Native Interactive Landscape - filter by category|
 |[awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering)|A curated list of Chaos Engineering resources.|
+|[techevangelism101](https://github.com/LappleApple/techevangelism101)|What to do before you hire a tech evangelist|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
