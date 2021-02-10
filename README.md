@@ -378,6 +378,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[android roadmap](https://roadmap.sh/android)|android roadmap|
 |[flutter_roadmap](https://github.com/olexale/flutter_roadmap)|Highly Subjective Roadmap to Flutter Development|
 |[awesomefluttertips](https://github.com/erluxman/awesomefluttertips)|❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️|
+|[open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)|📱 Collaborative List of Open-Source iOS Apps|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
