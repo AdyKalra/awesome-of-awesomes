@@ -205,6 +205,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[Cloud & DevSecOps Learning](https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md)|Collection of Cloud and DevSecOps learning resources|
 |[awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering)|A curated list of Chaos Engineering resources.|
 |[roi-calculator](https://gradle.com/roi-calculator/)|Gradle - How much can you improve your developer productivity?|
+|[cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)|Curated list of free courses & certifications|
 |**ENGINEERING**|**ENGINEERING**|
 |[Google Engineering practices](https://github.com/google/eng-practices)|Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time.|
 |[Technology Trends](https://github.com/AdyKalra/technolgytrends)|Everything tech - idiosyncratic opinion of a bunch of feeds , radars and technologists across the globe.
