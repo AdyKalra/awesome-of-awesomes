@@ -24,6 +24,7 @@ Collection of best of awesome repos on GitHub and other sources
 | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | Dynamically generated stats for your github readmes |
 | [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)| collection of templates with multimedia and simple profiles|
 |  [awesome-readme](https://github.com/matiassingers/awesome-readme) | A curated list of awesome READMEs |
+|[Reddit-Stock-Trends](https://github.com/iam-abbas/Reddit-Stock-Trends)| Musings|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
