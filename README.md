@@ -382,6 +382,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[flutter_roadmap](https://github.com/olexale/flutter_roadmap)|Highly Subjective Roadmap to Flutter Development|
 |[awesomefluttertips](https://github.com/erluxman/awesomefluttertips)|❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️|
 |[open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)|📱 Collaborative List of Open-Source iOS Apps|
+|[Flutter-responsive-email-ui---Mobile-Tablet-and-Web](https://github.com/abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web)|redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
