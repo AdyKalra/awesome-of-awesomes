@@ -294,6 +294,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)|Some useful websites for programmers.|
 |[project-guidelines](https://github.com/elsewhencode/project-guidelines)|list of guidelines we've found, written and gathered that (we think) works really well with most JavaScript projects|
 |[best-practices-checklist](https://github.com/palash25/best-practices-checklist)|A list of awesome idiomatic code resources. Rust🦀, Go, Ruby💎, Pony 🐴, Ocaml 🐫, Erlang and more|
+|[DesignPatternsLibrary](https://github.com/nemanjarogic/DesignPatternsLibrary)|A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design patterns through moderately realistic examples.|
 |[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)|🛁 Clean Code concepts adapted for JavaScript|
 |**MISSION TEAMS**|**MISSION TEAMS**|
 |[auxiliary-engineering](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Auxillary%20Engineering.md)|Supporting teams - chammpios / aux engineers|
