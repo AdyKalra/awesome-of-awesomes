@@ -257,6 +257,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[awesome-system-design](https://github.com/madd86/awesome-system-design)|A curated list of awesome System Design (A.K.A. Distributed Computing) resources.|
 |[architecture_decision_record](https://github.com/joelparkerhenderson/architecture_decision_record)|Architecture Decisions:Demystifying Architecture https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/ADRs.md|
 |[awesome-software-architecture](https://github.com/simskij/awesome-software-architecture)|A curated list of resources on software architecture|
+|[system-design-in-practice](https://github.com/resumejob/system-design-in-practice)|Learn how to design a system from tech company blogs - real world examples|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
