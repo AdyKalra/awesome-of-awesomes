@@ -232,6 +232,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)|exhaustive JavaScript & Node.js testing best practices (July 2020)|
 |[Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)|A list of resources for those interested in getting started in bug bounties|
 |**SECURITY**|**SECURITY**|
+|[OWASP Cheatsheets](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets)|collection of all owasp cheatsheets|
 |[SecLists](https://github.com/danielmiessler/SecLists)|SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.|
 |[Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)|Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.|
 |[Orange Tsai](https://github.com/orangetw/My-Presentation-Slides)|Collections of Orange Tsai's public presentation slides.|
