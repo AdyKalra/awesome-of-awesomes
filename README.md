@@ -205,6 +205,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[awesome-devopstools](https://github.com/wmariuss/awesome-devops)|A curated list of awesome DevOps tools, platforms and resources|
 |[resilience-engineering](https://github.com/lorin/resilience-engineering)|Resilience engineering papers|
 |[awesome-sre](https://github.com/dastergon/awesome-sre)|A curated list of Site Reliability and Production Engineering resources.|
+|[howtheysre](https://github.com/upgundecha/howtheysre)|A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)|
 |[cloudtools](https://github.com/cloudtools)|Stacker , Troposhere and more|
 |[devopsbookmarks](http://www.devopsbookmarks.com/)|Discover tools and frameworks in the DevOps landscape.|
 |[Cloud & DevSecOps Learning](https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md)|Collection of Cloud and DevSecOps learning resources|
