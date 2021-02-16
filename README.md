@@ -71,7 +71,7 @@ Collection of best of awesome repos on GitHub and other sources
 #### awesome-recruitment
 |  Name |  Summary | 
 |:-:    |:-:       |
-| []() | |
+| [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) | Interview styles of different orgs |
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
