@@ -223,6 +223,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[Steps For Architecting a Smarter Tech Stack](https://blog.optimizely.com/2020/07/15/sofware-technology-stack/)|Simple Steps For Architecting a Smarter Tech Stack|
 |[Application Monitoring Simplified](https://github.com/AdyKalra/technolgytrends/blob/master/PostProduction%20trends/application%20monitoring%20simplified.md)|How Netflix simplifies appln monitoring|
 |[roi-calculator](https://gradle.com/roi-calculator/)|Gradle - How much can you improve your developer productivity?|
+|[awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)|A curated list of data engineering tools for software developers|
 |**TESTING**|**TESTING**|
 |[howtheytest](https://github.com/abhivaikar/howtheytest)|A collection of public resources about how software companies test their software|
 |[javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)|exhaustive JavaScript & Node.js testing best practices (July 2020)|
