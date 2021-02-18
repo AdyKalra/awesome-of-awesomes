@@ -234,6 +234,7 @@ Collection of best of everything from various sources
 |[howtheytest](https://github.com/abhivaikar/howtheytest)|A collection of public resources about how software companies test their software|
 |[javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)|exhaustive JavaScript & Node.js testing best practices (July 2020)|
 |[Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)|A list of resources for those interested in getting started in bug bounties|
+|[Performance](https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-performance)|all perf tools|
 |**SECURITY**|**SECURITY**|
 |[OWASP Cheatsheets](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets)|collection of all owasp cheatsheets|
 |[SecLists](https://github.com/danielmiessler/SecLists)|SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.|
