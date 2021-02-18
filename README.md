@@ -214,6 +214,8 @@ Collection of best of everything from various sources
 |[awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering)|A curated list of Chaos Engineering resources.|
 |[roi-calculator](https://gradle.com/roi-calculator/)|Gradle - How much can you improve your developer productivity?|
 |[cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)|Curated list of free courses & certifications|
+|[auditing-tools](https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-auditing-tools)|all auditing and monitoring tools|
+|[system-diagnostics](https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-system-diagnosticsdebuggers)|System Diagnostics/Debuggers|
 |**ENGINEERING**|**ENGINEERING**|
 |[Google Engineering practices](https://github.com/google/eng-practices)|Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time.|
 |[Technology Trends](https://github.com/AdyKalra/technolgytrends)|Everything tech - idiosyncratic opinion of a bunch of feeds , radars and technologists across the globe.
@@ -353,6 +355,7 @@ Collection of best of everything from various sources
 |[react-redux-realworld-example-app](https://github.com/gothinkster/react-redux-realworld-example-app)|Exemplary real world application built with React + Redux|
 |[angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app)|Exemplary real world application built with angular|
 |[frontend-development](https://github.com/developer-resources/frontend-development)|A curated list of resources for Frontend development|
+|[web-tools](https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-web-tools)|web-tools|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
@@ -397,6 +400,7 @@ Collection of best of everything from various sources
 |[awesomefluttertips](https://github.com/erluxman/awesomefluttertips)|❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️|
 |[open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)|📱 Collaborative List of Open-Source iOS Apps|
 |[Flutter-responsive-email-ui---Mobile-Tablet-and-Web](https://github.com/abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web)|redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web.|
+|[mobile-apps-scanners](https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-mobile-apps-scanners)|mobile-apps-scanners|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
