@@ -128,6 +128,7 @@ Collection of best of awesome repos on GitHub and other sources
 |[aws-samples](https://github.com/aws-samples)| Boilerplate aws repositories including patterns |
 |[serverless cdk patterns](https://github.com/cdk-patterns/serverless)|This is intended to be a repo containing all of the official AWS Serverless architecture patterns built with CDK for developers to use. All patterns come in Typescript and Python with the exported CloudFormation also included.|
 |[cdk-components](https://github.com/cloudcomponents/cdk-components)|A collection of higher-level aws cdk components|
+|[aws-cdk-intro-workshop](https://github.com/aws-samples/aws-cdk-intro-workshop)|Introduction to the AWS CDK - Workshop|
 |[awesome-cloudformation](https://github.com/aws-cloudformation/awesome-cloudformation)|A curated list of resources and projects for working with AWS CloudFormation. https://aws.amazon.com/cloudformation/|
 |[cdk8s](https://github.com/awslabs/cdk8s)|Define Kubernetes native apps and abstractions using object-oriented programming https://cdk8s.io|
 |[awesome-awssketchnotes](https://www.awsgeek.com/)|awesome aws diagrams and notes|
