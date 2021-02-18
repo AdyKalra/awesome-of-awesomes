@@ -2,8 +2,7 @@
 
 
 # awesome-of-awesomes
-Collection of best of awesome repos on GitHub and other sources
-
+Collection of best of everything from various sources
 
 ### [All awesome repos](#all-awesome-repos)
 |   	|   	|   	|   	|
