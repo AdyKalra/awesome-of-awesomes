@@ -193,6 +193,7 @@ Collection of best of everything from various sources
 |[techevangelism101](https://github.com/LappleApple/techevangelism101)|What to do before you hire a tech evangelist|
 |[Impact Mapping](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Impact%20Mapping.md)|Pinpoint what's important: Try Impact Mapping |
 |[Open Decision Framework](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Open%20Decision%20Framework.md)|Transparent	Inclusive	Customer-Centric principles|
+|[ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)|amazing collection of all tools from Hacker News|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
