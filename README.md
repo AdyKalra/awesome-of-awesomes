@@ -145,6 +145,7 @@ Collection of best of everything from various sources
 |[aws-lambda-extensions](https://github.com/aws-samples/aws-lambda-extensions)|A collection of sample extensions to help you get started with AWS Lambda Extensions|
 |[AWS-in-bullet-points](https://github.com/undergroundwires/AWS-in-bullet-points)|☁️ AWS summary in bullet points|
 |[aws-solutions-constructs](https://github.com/awslabs/aws-solutions-constructs)|The AWS Solutions Constructs library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) that provides multi-service, well-architected patterns for quickly defining solutions in code to create predictable and repeatable infrastructure. The goal of AWS Solutions Constructs is to accelerate the experience for developers to build solutions of any size using pattern-based definitions for their architecture. The patterns defined in AWS Solutions Constructs are high level, multi-service abstractions of AWS CDK constructs that have default configurations based on well-architected best practices. The library is organized into logical modules using object-oriented techniques to create each architectural pattern model.|
+|[howtheyaws](https://github.com/upgundecha/howtheyaws)|A curated collection of publicly available resources on how technology and tech-savvy organizations around the world use Amazon Web Services (AWS)|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
