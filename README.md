@@ -272,6 +272,7 @@ Collection of best of everything from various sources
 |[architecture_decision_record](https://github.com/joelparkerhenderson/architecture_decision_record)|Architecture Decisions:Demystifying Architecture https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/ADRs.md|
 |[awesome-software-architecture](https://github.com/simskij/awesome-software-architecture)|A curated list of resources on software architecture|
 |[system-design-in-practice](https://github.com/resumejob/system-design-in-practice)|Learn how to design a system from tech company blogs - real world examples|
+|[Domain-Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon)|Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
