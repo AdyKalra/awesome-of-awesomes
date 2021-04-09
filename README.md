@@ -406,6 +406,7 @@ Collection of best of everything from various sources
 |[open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)|📱 Collaborative List of Open-Source iOS Apps|
 |[Flutter-responsive-email-ui---Mobile-Tablet-and-Web](https://github.com/abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web)|redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web.|
 |[mobile-apps-scanners](https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-mobile-apps-scanners)|mobile-apps-scanners|
+|[swift-collections](https://github.com/apple/swift-collections?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)|A package of production grade Swift data structures|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
