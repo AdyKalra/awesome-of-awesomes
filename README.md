@@ -105,6 +105,7 @@ Collection of best of everything from various sources
 |[monitoring](https://cloud.google.com/monitoring/docs/apis)|GC metrics and practices|
 |[GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote)|GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.|
 |[mlkit](https://github.com/googlesamples/mlkit)|A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS|
+|[bigquery-utils](https://github.com/GoogleCloudPlatform/bigquery-utils)|Useful scripts, udfs, views, and other utilities for migration and data warehouse operations in BigQuery. https://cloud.google.com/bigquery/ |
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
