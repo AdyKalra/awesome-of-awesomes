@@ -237,6 +237,7 @@ Collection of best of everything from various sources
 |[Application Monitoring Simplified](https://github.com/AdyKalra/technolgytrends/blob/master/PostProduction%20trends/application%20monitoring%20simplified.md)|How Netflix simplifies appln monitoring|
 |[roi-calculator](https://gradle.com/roi-calculator/)|Gradle - How much can you improve your developer productivity?|
 |[awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)|A curated list of data engineering tools for software developers|
+|[awesome-newsletters](https://github.com/zudochkin/awesome-newsletters)|A list of amazing Newsletters, FE/BE/DE etc..|
 |**TESTING**|**TESTING**|
 |[howtheytest](https://github.com/abhivaikar/howtheytest)|A collection of public resources about how software companies test their software|
 |[javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)|exhaustive JavaScript & Node.js testing best practices (July 2020)|
