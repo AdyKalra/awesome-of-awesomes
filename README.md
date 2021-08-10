@@ -364,6 +364,7 @@ Collection of best of everything from various sources
 |[angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app)|Exemplary real world application built with angular|
 |[frontend-development](https://github.com/developer-resources/frontend-development)|A curated list of resources for Frontend development|
 |[web-tools](https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-web-tools)|web-tools|
+|[33-js-concepts](https://github.com/leonardomso/33-js-concepts)|📜 33 JavaScript concepts every developer should know.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
