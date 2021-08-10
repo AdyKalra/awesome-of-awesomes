@@ -365,6 +365,7 @@ Collection of best of everything from various sources
 |[frontend-development](https://github.com/developer-resources/frontend-development)|A curated list of resources for Frontend development|
 |[web-tools](https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-web-tools)|web-tools|
 |[33-js-concepts](https://github.com/leonardomso/33-js-concepts)|📜 33 JavaScript concepts every developer should know.|
+|[lawsofux](https://lawsofux.com/)|Laws of UX is a collection of best practices that designers can consider when building user interfaces.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
