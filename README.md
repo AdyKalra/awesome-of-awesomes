@@ -91,6 +91,7 @@ Collection of best of everything from various sources
 |[awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)|▶️ An awesome list containing awesome YouTubers that teach about technology.|
 |[4-digital-transformation-books-for-leaders](https://enterprisersproject.com/article/2020/11/4-digital-transformation-books-for-leaders)|4-digital-transformation-books-for-leaders|
 |[Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)|Books everyone should read!|
+|4 Books That Will Help You Become a Modern Polymath|1. The Book of Five Rings — Miyamoto Musashi,2. Atomic Habits — James Clear,3. Thus Spoke Zarathustra — Friedrich Nietzsche,4. The Dip — Seth Godin|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
