@@ -122,6 +122,7 @@ Collection of best of everything from various sources
 |[azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)|Azure Quickstart Templates|
 |[AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks)|Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.|
 |[MicrosoftLearning](https://github.com/MicrosoftLearning)|Microsoft Learning , trainings and certs|
+|[MCW-Cloud-native-applications](https://github.com/microsoft/MCW-Cloud-native-applications)|Microsoft Cloud Workshop (MCW) program|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
