@@ -254,6 +254,8 @@ Collection of best of everything from various sources
 |[PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)|Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources|
 |[how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)|How to systematically secure anything: a repository about security engineering|
 |[hacker-laws](https://github.com/dwmkerr/hacker-laws)|Laws, Theories, Principles and Patterns that engineers will find useful. #hackerlaws|
+|[CRSP](https://www.microsoft.com/security/blog/2021/06/09/crsp-the-emergency-team-fighting-cyber-attacks-beside-customers/)|Microsoft Global Compromise Recovery Security Practice |
+|[7-ways-to-harden-your-environment-against-compromise](https://www.microsoft.com/security/blog/2021/08/11/7-ways-to-harden-your-environment-against-compromise/)|7-ways-to-harden-your-environment-against-compromise|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
