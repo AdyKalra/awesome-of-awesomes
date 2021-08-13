@@ -9,7 +9,7 @@ Collection of best of everything from various sources
 |:-:  |:-:  |:-:  |:-:  |
 | [awesome-aws](#awesome-aws) | [awesome-azure](#awesome-azure) 	| [awesome-googlecloud](#awesome-googlecloud) 	| [awesome-machinelearning](#awesome-machinelearning)| 
 | [awesome-web](#awesome-web) 	| [awesome-mobile](#awesome-mobile) 	| [awesome-backend](#awesome-backend) 	| [awesome-books/blogs/reusablerepos](#awesome-books) 	| 
-| [awesome-recruitment/books](#awesome-recruitment) | [awesome-engineering/devops/ops](#awesome-engineering)	| [awesome-architecture](#awesome-architecture) 	| [awesome-bestpractices](#awesome-bestpractices) 	| 
+| [awesome-recruitment/books](#awesome-recruitment) | [awesome-engineering/devops/ops/product management](#awesome-engineering)	| [awesome-architecture](#awesome-architecture) 	| [awesome-bestpractices](#awesome-bestpractices) 	| 
 | [awesome-personalbranding](#awesome-personalbranding) 	| [awesome-leadership](#awesome-leadership)	| [awesome-techvision](#awesome-techvision) 	| [awesome-codingpractices](#awesome-codingpractices) 	| 
 
 
@@ -256,6 +256,8 @@ Collection of best of everything from various sources
 |[hacker-laws](https://github.com/dwmkerr/hacker-laws)|Laws, Theories, Principles and Patterns that engineers will find useful. #hackerlaws|
 |[CRSP](https://www.microsoft.com/security/blog/2021/06/09/crsp-the-emergency-team-fighting-cyber-attacks-beside-customers/)|Microsoft Global Compromise Recovery Security Practice |
 |[7-ways-to-harden-your-environment-against-compromise](https://www.microsoft.com/security/blog/2021/08/11/7-ways-to-harden-your-environment-against-compromise/)|7-ways-to-harden-your-environment-against-compromise|
+|**PRODUCT MANAGEMENT**|**PRODUCT MANAGEMENT**|
+|[awesome-product-management](https://github.com/dend/awesome-product-management)|🚀 A curated list of awesome resources for product/program managers to learn and grow.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
