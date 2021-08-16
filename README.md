@@ -307,6 +307,7 @@ Collection of best of everything from various sources
 |[codecov](https://github.com/marketplace/codecov)|Codecov provides highly integrated tools to group, merge, archive and compare coverage reports.|
 |[java-design-patterns](https://github.com/iluwatar/java-design-patterns)|Design patterns implemented in Java|
 |[awesome-devenv](https://github.com/jondot/awesome-devenv)|A curated list of awesome tools, resources and workflow tips making an awesome development environment.|
+|[Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)|🔗 Some useful websites for programmers.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
