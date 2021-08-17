@@ -117,6 +117,7 @@ Collection of best of everything from various sources
 #### awesome-azure
 |  Name |  Summary | 
 |:-:    |:-:       |
+|[azure full documentation](https://docs.microsoft.com/en-us/azure/?product=featured)|all documentation for azure|
 | [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)| collection of azure-quickstart-templates |
 |[azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)|This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js|
 |[azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates)|Azure Quickstart Templates|
