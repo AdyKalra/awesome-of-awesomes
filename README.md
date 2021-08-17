@@ -377,6 +377,7 @@ Collection of best of everything from various sources
 |[33-js-concepts](https://github.com/leonardomso/33-js-concepts)|📜 33 JavaScript concepts every developer should know.|
 |[lawsofux](https://lawsofux.com/)|Laws of UX is a collection of best practices that designers can consider when building user interfaces.|
 |[javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)|📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)|
+|[bulletproof-react](https://github.com/alan2207/bulletproof-react)|🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
