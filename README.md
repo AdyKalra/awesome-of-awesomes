@@ -327,6 +327,7 @@ Collection of best of everything from various sources
 |[DesignPatternsLibrary](https://github.com/nemanjarogic/DesignPatternsLibrary)|A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design patterns through moderately realistic examples.|
 |[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)|🛁 Clean Code concepts adapted for JavaScript|
 |[DotNetCodingPatterns](https://github.com/davidfowl/DotNetCodingPatterns)|A collection of coding patterns in no particular order|
+|[javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)|📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)|
 |**MISSION TEAMS**|**MISSION TEAMS**|
 |[auxiliary-engineering](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Auxillary%20Engineering.md)|Supporting teams - chammpios / aux engineers|
 |**DESIGN**|**DESIGN**|
@@ -374,6 +375,7 @@ Collection of best of everything from various sources
 |[web-tools](https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-web-tools)|web-tools|
 |[33-js-concepts](https://github.com/leonardomso/33-js-concepts)|📜 33 JavaScript concepts every developer should know.|
 |[lawsofux](https://lawsofux.com/)|Laws of UX is a collection of best practices that designers can consider when building user interfaces.|
+|[javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)|📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
