@@ -328,6 +328,7 @@ Collection of best of everything from various sources
 |[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)|🛁 Clean Code concepts adapted for JavaScript|
 |[DotNetCodingPatterns](https://github.com/davidfowl/DotNetCodingPatterns)|A collection of coding patterns in no particular order|
 |[javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)|📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)|
+|[awesome-powershell](https://github.com/janikvonrotz/awesome-powershell)|A curated list of delightful PowerShell modules and resources|
 |**MISSION TEAMS**|**MISSION TEAMS**|
 |[auxiliary-engineering](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Auxillary%20Engineering.md)|Supporting teams - chammpios / aux engineers|
 |**DESIGN**|**DESIGN**|
