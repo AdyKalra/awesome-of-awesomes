@@ -62,6 +62,7 @@ Collection of best of everything from various sources
 |[awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management)|Nice one for leads - 👔 How to transition from software development to engineering management|
 |[The 4 BEPS Axes of a Leader](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/The%204%20BEPS%20Axes%20of%20a%20Leader.md)| Different dimensions for a leader|
 |[vpe-and-cto-the-first-90-days](https://www.kartar.net/2020/07/vpe-and-cto-the-first-90-days/)|vpe-and-cto-the-first-90-days plan|
+|[awesome-cto](https://github.com/kuchin/awesome-cto)|A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
