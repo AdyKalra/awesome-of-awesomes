@@ -254,6 +254,9 @@ Collection of best of everything from various sources
 |[Performance](https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-performance)|all perf tools|
 |[awesome-performance-testing](https://github.com/andriisoldatenko/awesome-performance-testing)|A collection of awesome performance testing resources|
 |[awesome-mysql-performance](https://github.com/Releem/awesome-mysql-performance)|🔥 A curated list of awesome links related to MySQL / MariaDB / Percona performance tuning|
+|[awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)|📝 A curated list of Web Performance Optimization. Everyone can contribute here!|
+|[awesome-android-performance](https://github.com/Juude/awesome-android-performance)|Android performance optimization tutorials, videos and tools list|
+|[awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance)|A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff.|
 |**SECURITY**|**SECURITY**|
 |[OWASP Cheatsheets](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets)|collection of all owasp cheatsheets|
 |[SecLists](https://github.com/danielmiessler/SecLists)|SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.|
