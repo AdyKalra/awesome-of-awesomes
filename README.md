@@ -127,6 +127,7 @@ Collection of best of everything from various sources
 |[AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks)|Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.|
 |[MicrosoftLearning](https://github.com/MicrosoftLearning)|Microsoft Learning , trainings and certs|
 |[MCW-Cloud-native-applications](https://github.com/microsoft/MCW-Cloud-native-applications)|Microsoft Cloud Workshop (MCW) program|
+|[monthlyresources](https://github.com/microsoft/monthlyresources)|Use this repository to explore the latest content and code samples. Each month we will release best of content resources that relate to a particular theme. - Microsoft Developer Editorial team|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
