@@ -230,6 +230,7 @@ Collection of best of everything from various sources
 |[cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)|Curated list of free courses & certifications|
 |[auditing-tools](https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-auditing-tools)|all auditing and monitoring tools|
 |[system-diagnostics](https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-system-diagnosticsdebuggers)|System Diagnostics/Debuggers|
+|[awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)|A curated list of SBOM (Software Bill Of Materials) related tools, frameworks, blogs, podcasts, and articles|
 |**ENGINEERING**|**ENGINEERING**|
 |[Google Engineering practices](https://github.com/google/eng-practices)|Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time.|
 |[Technology Trends](https://github.com/AdyKalra/technolgytrends)|Everything tech - idiosyncratic opinion of a bunch of feeds , radars and technologists across the globe.
