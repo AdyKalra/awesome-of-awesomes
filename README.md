@@ -296,7 +296,7 @@ Collection of best of everything from various sources
 |[awesome-software-architecture](https://github.com/simskij/awesome-software-architecture)|A curated list of resources on software architecture|
 |[system-design-in-practice](https://github.com/resumejob/system-design-in-practice)|Learn how to design a system from tech company blogs - real world examples|
 |[Domain-Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon)|Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.|
-|[awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)|A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.|
+|[awesome-software-architecture-web](https://mehdihadeli.github.io/awesome-software-architecture/)[awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)|A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
