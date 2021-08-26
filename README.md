@@ -76,6 +76,7 @@ Collection of best of everything from various sources
 |[spot-an-engineering-driven-company](https://medium.com/dev-genius/3-questions-that-i-ask-during-interview-to-spot-an-engineering-driven-company-f7f6f3960fe1)|3 Questions to ask during Interview to Spot an Engineering-Driven Company|
 |[SDE-Interview-Questions](https://github.com/twowaits/SDE-Interview-Questions)|Most comprehensive list 📋 of tech interview questions 📘 of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.|
 |[The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)|This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning).|
+|[devops-exercises](https://github.com/bregman-arie/devops-exercises)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
@@ -232,6 +233,7 @@ Collection of best of everything from various sources
 |[auditing-tools](https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-auditing-tools)|all auditing and monitoring tools|
 |[system-diagnostics](https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-system-diagnosticsdebuggers)|System Diagnostics/Debuggers|
 |[awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)|A curated list of SBOM (Software Bill Of Materials) related tools, frameworks, blogs, podcasts, and articles|
+|[devops-exercises](https://github.com/bregman-arie/devops-exercises)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|
 |**ENGINEERING**|**ENGINEERING**|
 |[Google Engineering practices](https://github.com/google/eng-practices)|Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time.|
 |[Technology Trends](https://github.com/AdyKalra/technolgytrends)|Everything tech - idiosyncratic opinion of a bunch of feeds , radars and technologists across the globe.
