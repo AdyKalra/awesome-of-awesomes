@@ -75,6 +75,7 @@ Collection of best of everything from various sources
 | [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) | Interview styles of different orgs |
 |[spot-an-engineering-driven-company](https://medium.com/dev-genius/3-questions-that-i-ask-during-interview-to-spot-an-engineering-driven-company-f7f6f3960fe1)|3 Questions to ask during Interview to Spot an Engineering-Driven Company|
 |[SDE-Interview-Questions](https://github.com/twowaits/SDE-Interview-Questions)|Most comprehensive list 📋 of tech interview questions 📘 of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.|
+|[The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)|This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning).|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
