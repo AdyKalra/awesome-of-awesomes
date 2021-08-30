@@ -77,6 +77,7 @@ Collection of best of everything from various sources
 |[SDE-Interview-Questions](https://github.com/twowaits/SDE-Interview-Questions)|Most comprehensive list 📋 of tech interview questions 📘 of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.|
 |[The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)|This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning).|
 |[devops-exercises](https://github.com/bregman-arie/devops-exercises)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|
+|[what-happens-when](https://github.com/alex/what-happens-when)|An attempt to answer the age old interview question "What happens when you|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
