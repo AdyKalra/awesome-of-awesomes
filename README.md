@@ -219,7 +219,7 @@ Collection of best of everything from various sources
 #### awesome-engineering
 |  Name |  Summary | 
 |:-:    |:-:       |
-|**DEVOPS / OPS**|**DEVOPS / OPS**|
+|**DEVOPS / DEVSECOPS / OPS**|**DEVOPS / DEVSECOPS / OPS**|
 |[awesome-devops](https://github.com/awesome-soft/awesome-devops)|A curated list of awesome softwares for Devops.|
 |[awesome-devopstools](https://github.com/wmariuss/awesome-devops)|A curated list of awesome DevOps tools, platforms and resources|
 |[resilience-engineering](https://github.com/lorin/resilience-engineering)|Resilience engineering papers|
@@ -235,6 +235,7 @@ Collection of best of everything from various sources
 |[system-diagnostics](https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-system-diagnosticsdebuggers)|System Diagnostics/Debuggers|
 |[awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)|A curated list of SBOM (Software Bill Of Materials) related tools, frameworks, blogs, podcasts, and articles|
 |[devops-exercises](https://github.com/bregman-arie/devops-exercises)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|
+|[5 DevSecOps open source projects](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/DevSecOps%20open%20source%20projects.md)|Clair,Sigstore,KubeLinter,Open Policy Agent and Gatekeeper,Falco|
 |**ENGINEERING**|**ENGINEERING**|
 |[Google Engineering practices](https://github.com/google/eng-practices)|Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time.|
 |[Technology Trends](https://github.com/AdyKalra/technolgytrends)|Everything tech - idiosyncratic opinion of a bunch of feeds , radars and technologists across the globe.
