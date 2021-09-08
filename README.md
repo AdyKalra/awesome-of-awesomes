@@ -398,6 +398,7 @@ Collection of best of everything from various sources
 |[bulletproof-react](https://github.com/alan2207/bulletproof-react)|🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.|
 |[typescript-book](https://github.com/basarat/typescript-book)|📚 The definitive guide to TypeScript and possibly the best TypeScript book|
 |[awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning)|A tiny list limited to the best JavaScript Learning Resources|
+|[frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture)|React + TypeScript app built using clean architecture principles.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
