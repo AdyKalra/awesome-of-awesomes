@@ -359,6 +359,7 @@ Collection of best of everything from various sources
 |[devsecops-nine-tips-shift-left](https://about.gitlab.com/blog/2020/06/23/efficient-devsecops-nine-tips-shift-left/)|dev secops practices|
 |[12-attributes-for-mainframe-workloads](https://aws.amazon.com/blogs/apn/accelerating-agility-with-12-attributes-for-mainframe-workloads/)|12 attributes that can be used for showcase|
 |[Code Deployment best practices](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Code%20Deployment%20best%20practices.md)|deploys at Slack|
+|[kubernetes-best-practices](https://github.com/diegolnasc/kubernetes-best-practices)|A cookbook with the best practices for working with kubernetes.|
 |**MONITORING**|**MONITORING**|
 |[monitoring](https://cloud.google.com/monitoring/docs/apis)|GC metrics and practices|
 |**DOCUMENTATION**|**DOCUMENTATION**|
