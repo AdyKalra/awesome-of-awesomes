@@ -114,6 +114,7 @@ Collection of best of everything from various sources
 |[mlkit](https://github.com/googlesamples/mlkit)|A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS|
 |[bigquery-utils](https://github.com/GoogleCloudPlatform/bigquery-utils)|Useful scripts, udfs, views, and other utilities for migration and data warehouse operations in BigQuery. https://cloud.google.com/bigquery/ |
 |[awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications)|Google Cloud Platform Certification resources.|
+|[awesome-google-cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud)|A curated list of awesome stuff for Google Cloud Platform.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
