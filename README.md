@@ -45,6 +45,7 @@ Collection of best of everything from various sources
 |[the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist)|Books for people who are or aspire to manage/lead team(s) of software engineers|
 |[engineer-manager](https://github.com/ryanburgess/engineer-manager)|A list of engineering manager resource links.|
 |[engineeringladders](https://github.com/jorgef/engineeringladders)|A framework for Engineering Managers - roles explained|
+|[awesome-engineering-ladders](https://github.com/posquit0/awesome-engineering-ladders)|A curated list of awesome resources for Engineering Ladder|
 |[manager-resources](https://github.com/dmleong/manager-resources)|Views of an engineering manager at Github|
 |[manager-resources](https://github.com/VGraupera/manager-resources)|A curated list of resources for front-line engineering managers|
 |[engineering-management-resources](https://github.com/afternoon/engineering-management-resources)|A list of resources for engineering managers of all levels|
