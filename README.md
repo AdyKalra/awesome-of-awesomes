@@ -2,7 +2,7 @@
 
 
 # awesome-of-awesomes
-Collection of best of everything from various sources
+Collection of best of everything and Best Practices in the tech world - aws, azure, googlecloud, machinelearning, web, mobile, backend, books/blogs/reusablerepos, recruitment/books, engineering/devops/ops ,architecture ,bestpractices ,personalbranding ,leadership ,techvision ,codingpractices
 
 ### [All awesome repos](#all-awesome-repos)
 |   	|   	|   	|   	|
