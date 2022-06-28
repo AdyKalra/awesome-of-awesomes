@@ -224,6 +224,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |  Name |  Summary | 
 |:-:    |:-:       |
 |**DEVOPS / DEVSECOPS / OPS**|**DEVOPS / DEVSECOPS / OPS**|
+|[awesome-devops-exercises](https://github.com/bregman-arie/devops-exercises)|Questions and exercises on various technical topics, sometimes related to DevOps and SRE|
 |[awesome-devops](https://github.com/awesome-soft/awesome-devops)|A curated list of awesome softwares for Devops.|
 |[awesome-devopstools](https://github.com/wmariuss/awesome-devops)|A curated list of awesome DevOps tools, platforms and resources|
 |[resilience-engineering](https://github.com/lorin/resilience-engineering)|Resilience engineering papers|
