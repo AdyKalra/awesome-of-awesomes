@@ -98,6 +98,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |[4-digital-transformation-books-for-leaders](https://enterprisersproject.com/article/2020/11/4-digital-transformation-books-for-leaders)|4-digital-transformation-books-for-leaders|
 |[Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)|Books everyone should read!|
 |4 Books That Will Help You Become a Modern Polymath|1. The Book of Five Rings — Miyamoto Musashi,2. Atomic Habits — James Clear,3. Thus Spoke Zarathustra — Friedrich Nietzsche,4. The Dip — Seth Godin|
+|Good Strategy Bad Strategy|[how to develop and take action on strategy, in business, politics and beyond.](http://dspace.vnbrims.org:13000/xmlui/bitstream/handle/123456789/4584/Good%20Strategy_Bad%20Strategy.pdf?sequence=1&isAllowed=y#:~:text='%20Good%20Strategy%2FBad%20Strategy%20focuses,not%20a%20goal%20or%20objectives.)|
 |[building-microservices-designing-fine-grained-systems](http://ce.sharif.edu/courses/96-97/1/ce924-1/resources/root/Books/building-microservices-designing-fine-grained-systems.pdf)|building-microservices-designing-fine-grained-systems|
 |[awesome-cloud-certifications](https://gitlab.com/edzob/awesome-cloud-certifications)|overview of the available Cloud Certifications.|
 
