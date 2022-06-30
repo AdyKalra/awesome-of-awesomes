@@ -273,6 +273,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |[awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance)|A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff.|
 |**SECURITY**|**SECURITY**|
 |[Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)|A collection of various awesome lists for hackers, pentesters and security researchers|
+|[awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines)|A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more |
 |[OWASP Cheatsheets](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets)|collection of all owasp cheatsheets|
 |[SecLists](https://github.com/danielmiessler/SecLists)|SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.|
 |[Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)|Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.|
