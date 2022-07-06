@@ -260,6 +260,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |[roi-calculator](https://gradle.com/roi-calculator/)|Gradle - How much can you improve your developer productivity?|
 |[awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)|A curated list of data engineering tools for software developers|
 |[awesome-newsletters](https://github.com/zudochkin/awesome-newsletters)|A list of amazing Newsletters, FE/BE/DE etc..|
+|[every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)|A collection of (mostly) technical things every software developer should know about|
 |**TESTING**|**TESTING**|
 |[howtheytest](https://github.com/abhivaikar/howtheytest)|A collection of public resources about how software companies test their software|
 |[javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)|exhaustive JavaScript & Node.js testing best practices (July 2020)|
