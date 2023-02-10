@@ -243,6 +243,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |[awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)|A curated list of SBOM (Software Bill Of Materials) related tools, frameworks, blogs, podcasts, and articles|
 |[devops-exercises](https://github.com/bregman-arie/devops-exercises)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|
 |[5 DevSecOps open source projects](https://github.com/AdyKalra/technolgytrends/blob/master/CloudPlatform%20trends/DevSecOps%20open%20source%20projects.md)|Clair,Sigstore,KubeLinter,Open Policy Agent and Gatekeeper,Falco|
+|[Kubernetes roadmap](https://github.com/techiescamp/kubernetes-learning-path)|A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)|
 |[awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)|A curated list of data engineering tools for software developers|
 |**ENGINEERING**|**ENGINEERING**|
 |[Google Engineering practices](https://github.com/google/eng-practices)|Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time.|
