@@ -185,6 +185,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |[AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)|Roadmap to becoming an Artificial Intelligence Expert in 2020|
 |[applied-ml](https://github.com/eugeneyan/applied-ml)|📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.|
 |[Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)|A helpful 4-page data science cheatsheet to assist with exam reviews, interview prep, and anything in-between.|
+|[Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)|🐙 Guides, papers, lecture, notebooks and resources for prompt engineering|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
