@@ -70,7 +70,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 
 <!--- END OF TOPIC--->
 
-####awesome-ai-chatgpt
+#### awesome-ai-chatgpt
 |  Name |  Summary | 
 |:-:    |:-:       |
 |[awesome-chatgpt-suggestions](https://github.com/aminblm/awesome-chatgpt-suggestions)|List of prompts for chatGPT for various assistances with tasks.|
