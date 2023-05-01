@@ -75,6 +75,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |:-:    |:-:       |
 |[awesome-chatgpt-suggestions](https://github.com/aminblm/awesome-chatgpt-suggestions)|List of prompts for chatGPT for various assistances with tasks.|
 |[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)|This repo includes ChatGPT prompt curation to use ChatGPT better.|
+|[prompt-engineering](https://www.promptstacks.com/prompt-engineering/tech)|Prompt Engineering Community|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
