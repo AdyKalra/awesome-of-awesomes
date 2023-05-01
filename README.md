@@ -8,7 +8,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |   	|   	|   	|   	|
 |:-:  |:-:  |:-:  |:-:  |
 | [awesome-aws](#awesome-aws) | [awesome-azure](#awesome-azure) 	| [awesome-googlecloud](#awesome-googlecloud) 	| [awesome-machinelearning](#awesome-machinelearning)| 
-| [awesome-web](#awesome-web) 	| [awesome-mobile](#awesome-mobile) 	| [awesome-backend](#awesome-backend) 	| [awesome-AI/ChatGPT](#awesome-books) 	| 
+| [awesome-web](#awesome-web) 	| [awesome-mobile](#awesome-mobile) 	| [awesome-backend](#awesome-backend) 	| [awesome-AI/ChatGPT](#awesome-AI/ChatGPT) 	| 
 | [awesome-recruitment/books](#awesome-recruitment) | [awesome-engineering/devops/ops/product management](#awesome-engineering)	| [awesome-architecture](#awesome-architecture) 	| [awesome-bestpractices](#awesome-bestpractices) 	| 
 | [awesome-personalbranding](#awesome-personalbranding) 	| [awesome-leadership](#awesome-leadership)	| [awesome-techvision](#awesome-techvision) 	| [awesome-codingpractices](#awesome-codingpractices) 	| 
 
@@ -64,6 +64,17 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |[The 4 BEPS Axes of a Leader](https://github.com/AdyKalra/awesome-leading-and-managing/blob/master/The%204%20BEPS%20Axes%20of%20a%20Leader.md)| Different dimensions for a leader|
 |[vpe-and-cto-the-first-90-days](https://www.kartar.net/2020/07/vpe-and-cto-the-first-90-days/)|vpe-and-cto-the-first-90-days plan|
 |[awesome-cto](https://github.com/kuchin/awesome-cto)|A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups|
+
+[Back to top :arrow_up:](#all-awesome-repos)
+[Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
+
+<!--- END OF TOPIC--->
+
+####awesome-AI/ChatGPT
+|  Name |  Summary | 
+|:-:    |:-:       |
+|[awesome-chatgpt-suggestions](https://github.com/aminblm/awesome-chatgpt-suggestions)|List of prompts for chatGPT for various assistances with tasks.|
+|[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)|This repo includes ChatGPT prompt curation to use ChatGPT better.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
