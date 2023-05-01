@@ -8,7 +8,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |   	|   	|   	|   	|
 |:-:  |:-:  |:-:  |:-:  |
 | [awesome-aws](#awesome-aws) | [awesome-azure](#awesome-azure) 	| [awesome-googlecloud](#awesome-googlecloud) 	| [awesome-machinelearning](#awesome-machinelearning)| 
-| [awesome-web](#awesome-web) 	| [awesome-mobile](#awesome-mobile) 	| [awesome-backend](#awesome-backend) 	| [awesome-books/blogs/reusablerepos](#awesome-books) 	| 
+| [awesome-web](#awesome-web) 	| [awesome-mobile](#awesome-mobile) 	| [awesome-backend](#awesome-backend) 	| [awesome-AI/ChatGPT](#awesome-books) 	| 
 | [awesome-recruitment/books](#awesome-recruitment) | [awesome-engineering/devops/ops/product management](#awesome-engineering)	| [awesome-architecture](#awesome-architecture) 	| [awesome-bestpractices](#awesome-bestpractices) 	| 
 | [awesome-personalbranding](#awesome-personalbranding) 	| [awesome-leadership](#awesome-leadership)	| [awesome-techvision](#awesome-techvision) 	| [awesome-codingpractices](#awesome-codingpractices) 	| 
 
