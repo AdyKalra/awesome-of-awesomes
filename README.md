@@ -240,6 +240,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |**DEVOPS / DEVSECOPS / OPS**|**DEVOPS / DEVSECOPS / OPS**|
 |[Grafana On-Call](https://github.com/AdyKalra/technolgytrends/blob/master/PostProduction%20trends/Grafana%20On%20Call.md)|On Call from Pager Duty to Grafana| 
 |[awesome-devops-resources](https://github.com/bregman-arie/devops-resources)|Useful resources and information regarding DevOps and secondly, provide some roadmap for those who want to practice DevOps.|
+|[awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops)|Curating the best DevSecOps resources and tooling.|
 |[awesome-devops-exercises](https://github.com/bregman-arie/devops-exercises)|Questions and exercises on various technical topics, sometimes related to DevOps and SRE|
 |[awesome-devops](https://github.com/awesome-soft/awesome-devops)|A curated list of awesome softwares for Devops.|
 |[awesome-devopstools](https://github.com/wmariuss/awesome-devops)|A curated list of awesome DevOps tools, platforms and resources|
