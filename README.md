@@ -243,6 +243,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |[awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops)|Curating the best DevSecOps resources and tooling.|
 |[awesome-devops-exercises](https://github.com/bregman-arie/devops-exercises)|Questions and exercises on various technical topics, sometimes related to DevOps and SRE|
 |[awesome-devops](https://github.com/awesome-soft/awesome-devops)|A curated list of awesome softwares for Devops.|
+|[awesome-devops](https://github.com/wmariuss/awesome-devops)|A curated list of awesome DevOps platforms, tools, practices and resources|
 |[awesome-devopstools](https://github.com/wmariuss/awesome-devops)|A curated list of awesome DevOps tools, platforms and resources|
 |[resilience-engineering](https://github.com/lorin/resilience-engineering)|Resilience engineering papers|
 |[awesome-sre](https://github.com/dastergon/awesome-sre)|A curated list of Site Reliability and Production Engineering resources.|
