@@ -2,14 +2,14 @@
 
 
 # awesome-of-awesomes
-Collection of best of everything and Best Practices in the tech world - aws, azure, googlecloud, machinelearning, web, mobile, backend, books/blogs/reusablerepos, recruitment/books, engineering/devops/ops ,architecture ,bestpractices ,personalbranding ,leadership ,techvision ,codingpractices
+Collection of best of everything and Best Practices in the tech world - aws, azure, googlecloud, machinelearning, web, mobile, backend, books/blogs/reusablerepos, recruitment/books/conferences, engineering/devops/ops ,architecture ,bestpractices ,personalbranding ,leadership ,techvision ,codingpractices
 
 ### [All awesome repos](#all-awesome-repos)
 |   	|   	|   	|   	|
 |:-:  |:-:  |:-:  |:-:  |
 | [awesome-aws](#awesome-aws) | [awesome-azure](#awesome-azure) 	| [awesome-googlecloud](#awesome-googlecloud) 	| [awesome-machinelearning](#awesome-machinelearning)| 
 | [awesome-web](#awesome-web) 	| [awesome-mobile](#awesome-mobile) 	| [awesome-backend](#awesome-backend) 	| [awesome-AI/ChatGPT](#awesome-ai-chatgpt) 	| 
-| [awesome-recruitment/books](#awesome-recruitment) | [awesome-engineering/devops/ops/product management](#awesome-engineering)	| [awesome-architecture](#awesome-architecture) 	| [awesome-bestpractices](#awesome-bestpractices) 	| 
+| [awesome-recruitment/books/conferences](#awesome-recruitment-books-conferences) | [awesome-engineering/devops/ops/product management](#awesome-engineering)	| [awesome-architecture](#awesome-architecture) 	| [awesome-bestpractices](#awesome-bestpractices) 	| 
 | [awesome-personalbranding](#awesome-personalbranding) 	| [awesome-leadership](#awesome-leadership)	| [awesome-techvision](#awesome-techvision) 	| [awesome-codingpractices](#awesome-codingpractices) 	| 
 
 
@@ -82,7 +82,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 
 <!--- END OF TOPIC--->
 
-#### awesome-recruitment
+#### awesome-recruitment-books-conferences
 |  Name |  Summary | 
 |:-:    |:-:       |
 | [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) | Interview styles of different orgs |
@@ -92,6 +92,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |[devops-exercises](https://github.com/bregman-arie/devops-exercises)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|
 |[what-happens-when](https://github.com/alex/what-happens-when)|An attempt to answer the age old interview question "What happens when you|
 |[DevOps-Books](https://github.com/manjunath5496/DevOps-Books)|"DevOps has helped us do very frequent releases, giving us an edge on time to market. We are now able to make daily product releases as opposed to 6-month releases, and push fixes to our customers in a span of a few hours." ― Hamesh Chawla|
+|[developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda)|This repository list a maximum of tech conferences's date and CFP in order to help conferences organizers, speakers & attendees|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
