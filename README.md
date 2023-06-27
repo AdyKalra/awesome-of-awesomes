@@ -269,6 +269,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |[DevOps-Books](https://github.com/manjunath5496/DevOps-Books)|"DevOps has helped us do very frequent releases, giving us an edge on time to market. We are now able to make daily product releases as opposed to 6-month releases, and push fixes to our customers in a span of a few hours." ― Hamesh Chawla|
 |[services-engineering](https://github.com/mmcgrana/services-engineering)|A reading list for services engineering, with a focus on cloud infrastructure services|
 |[awesome-cloudnative-trainings](https://github.com/joseadanof/awesome-cloudnative-trainings)|Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software|
+|[DevOps-Guide](https://github.com/Tikam02/DevOps-Guide)|DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.|
 |**ENGINEERING**|**ENGINEERING**|
 |[Google Engineering practices](https://github.com/google/eng-practices)|Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time.|
 |[Technology Trends](https://github.com/AdyKalra/technolgytrends)|Everything tech - idiosyncratic opinion of a bunch of feeds , radars and technologists across the globe.
