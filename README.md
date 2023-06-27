@@ -318,6 +318,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 #### awesome-architecture
 |  Name |  Summary | 
 |:-:    |:-:       |
+|[system-design-notebook](https://github.com/bregman-arie/system-design-notebook)|Learn System Design step by step|
 |  [awesome-software-architect-roadmap](https://github.com/AlaaAttya/software-architect-roadmap) | View roadmaps about architect roles to help you learn |
 |  [awesome-software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) | The software design and architecture roadmap for any developer https://solidbook.io |
 | [awesome-solution-architecture](https://github.com/unlight/solution-architecture) | Solution Architecture links, articles, books, video lessons, etc. |
