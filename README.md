@@ -39,7 +39,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |[Engineering Management](https://github.com/charlax/engineering-management)|A collection of inspiring resources related to engineering management and tech leadership|
 |[awesome-speaking](https://github.com/matteofigus/awesome-speaking)|Resources about public speaking|
 |[Public_Speaking](https://github.com/vmbrasseur/Public_Speaking)|public speaking, specifically in the context of software development and IT conferences.|
-|[weareallaweso](http://weareallaweso.me/)|tips for talks|
+|[weareallaweso](http://weareallaweso.me/)|tips for booktalks|
 |[awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)|tech online talks and screencasts|
 |[digital-transformation-leadership-manifesto](https://enterprisersproject.com/article/2020/7/digital-transformation-leadership-manifesto)|A manifesto for moving from good manager to true IT leader|
 |[the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist)|Books for people who are or aspire to manage/lead team(s) of software engineers|
@@ -91,6 +91,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |[The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)|This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning).|
 |[devops-exercises](https://github.com/bregman-arie/devops-exercises)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|
 |[what-happens-when](https://github.com/alex/what-happens-when)|An attempt to answer the age old interview question "What happens when you|
+|[DevOps-Books](https://github.com/manjunath5496/DevOps-Books)|"DevOps has helped us do very frequent releases, giving us an edge on time to market. We are now able to make daily product releases as opposed to 6-month releases, and push fixes to our customers in a span of a few hours." ― Hamesh Chawla|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
