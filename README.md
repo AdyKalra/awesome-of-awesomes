@@ -266,6 +266,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |[Fast-Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes)|This repo covers Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm, etc.|
 |[awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|
 |[DevOps-Books](https://github.com/manjunath5496/DevOps-Books)|"DevOps has helped us do very frequent releases, giving us an edge on time to market. We are now able to make daily product releases as opposed to 6-month releases, and push fixes to our customers in a span of a few hours." ― Hamesh Chawla|
+|[services-engineering](https://github.com/mmcgrana/services-engineering)|A reading list for services engineering, with a focus on cloud infrastructure services|
 |**ENGINEERING**|**ENGINEERING**|
 |[Google Engineering practices](https://github.com/google/eng-practices)|Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time.|
 |[Technology Trends](https://github.com/AdyKalra/technolgytrends)|Everything tech - idiosyncratic opinion of a bunch of feeds , radars and technologists across the globe.
