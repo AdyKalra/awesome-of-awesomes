@@ -270,6 +270,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |[services-engineering](https://github.com/mmcgrana/services-engineering)|A reading list for services engineering, with a focus on cloud infrastructure services|
 |[awesome-cloudnative-trainings](https://github.com/joseadanof/awesome-cloudnative-trainings)|Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software|
 |[DevOps-Guide](https://github.com/Tikam02/DevOps-Guide)|DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.|
+|[devops-master-class](https://github.com/in28minutes/devops-master-class)|Learn Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops|
 |**ENGINEERING**|**ENGINEERING**|
 |[Google Engineering practices](https://github.com/google/eng-practices)|Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time.|
 |[Technology Trends](https://github.com/AdyKalra/technolgytrends)|Everything tech - idiosyncratic opinion of a bunch of feeds , radars and technologists across the globe.
