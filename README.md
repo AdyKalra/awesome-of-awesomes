@@ -344,7 +344,8 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |[system-design-in-practice](https://github.com/resumejob/system-design-in-practice)|Learn how to design a system from tech company blogs - real world examples|
 |[Domain-Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon)|Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.|
 |[awesome-software-architecture-web](https://mehdihadeli.github.io/awesome-software-architecture/)[awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)|A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.|
-|[Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture)|Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design.|
+|[Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture)|Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design.|'
+|[evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example)|Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various architectural patterns. Go beyond the one-size-fits-all solutions and understand how to blend these approaches based on your unique needs.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
