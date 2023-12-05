@@ -116,6 +116,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |[Good Strategy Bad Strategy](http://dspace.vnbrims.org:13000/xmlui/bitstream/handle/123456789/4584/Good%20Strategy_Bad%20Strategy.pdf?sequence=1&isAllowed=y#:~:text='%20Good%20Strategy%2FBad%20Strategy%20focuses,not%20a%20goal%20or%20objectives.)|how to develop and take action on strategy, in business, politics and beyond.|
 |[building-microservices-designing-fine-grained-systems](http://ce.sharif.edu/courses/96-97/1/ce924-1/resources/root/Books/building-microservices-designing-fine-grained-systems.pdf)|building-microservices-designing-fine-grained-systems|
 |[awesome-cloud-certifications](https://gitlab.com/edzob/awesome-cloud-certifications)|overview of the available Cloud Certifications.|
+|[awesome-book-summaries](https://github.com/AdyKalra/awesome-leadership/blob/main/Awesome-book-summaries.md)|Great summary of most popular motivational books|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
