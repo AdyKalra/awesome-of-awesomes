@@ -233,7 +233,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |[Impact Mapping](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Impact%20Mapping.md)|Pinpoint what's important: Try Impact Mapping |
 |[Open Decision Framework](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/Open%20Decision%20Framework.md)|Transparent	Inclusive	Customer-Centric principles|
 |[ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)|amazing collection of all tools from Hacker News|
-|[DORA's research program](https://github.com/AdyKalra/technolgytrends/blob/master/EngineeringPractices%20trends/DORA's%20research%20program.md)|guide to DevOps, along with six years of State of DevOps Reports|
+|[DORA's research program](https://github.com/AdyKalra/technolgytrends/blob/master/TechStrategy%20trends/DORA's%20research%20program.md)|guide to DevOps, along with six years of State of DevOps Reports|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
