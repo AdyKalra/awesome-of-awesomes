@@ -491,6 +491,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |[Flutter-responsive-email-ui---Mobile-Tablet-and-Web](https://github.com/abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web)|redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web.|
 |[mobile-apps-scanners](https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-mobile-apps-scanners)|mobile-apps-scanners|
 |[swift-collections](https://github.com/apple/swift-collections?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)|A package of production grade Swift data structures|
+|[Kotlin Multiplatform](https://github.com/terrakok/kmp-awesome)|An awesome list that curates the best Kotlin Multiplatform libraries, tools and more.|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
