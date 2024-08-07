@@ -293,6 +293,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |[awesome-newsletters](https://github.com/zudochkin/awesome-newsletters)|A list of amazing Newsletters, FE/BE/DE etc..|
 |[every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)|A collection of (mostly) technical things every software developer should know about|
 |[awesome-quant](https://github.com/wilsonfreitas/awesome-quant)|A curated list of insanely awesome libraries, packages and resources for Quants|
+|[awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)|The Patterns of Scalable, Reliable, and Performant Large-Scale Systems|
 |**TESTING**|**TESTING**|
 |[howtheytest](https://github.com/abhivaikar/howtheytest)|A collection of public resources about how software companies test their software|
 |[javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)|exhaustive JavaScript & Node.js testing best practices (July 2020)|
