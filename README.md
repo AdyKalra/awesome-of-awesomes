@@ -347,6 +347,7 @@ Collection of best of everything and Best Practices in the tech world - aws, azu
 |[awesome-software-architecture-web](https://mehdihadeli.github.io/awesome-software-architecture/)[awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)|A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.|
 |[Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture)|Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design.|'
 |[evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example)|Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various architectural patterns. Go beyond the one-size-fits-all solutions and understand how to blend these approaches based on your unique needs.|
+|[awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)|The Patterns of Scalable, Reliable, and Performant Large-Scale Systems|
 
 [Back to top :arrow_up:](#all-awesome-repos)
 [Edit this file](https://github.com/AdyKalra/awesome-of-awesomes/edit/master/README.md)
